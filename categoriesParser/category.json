@@ -1,0 +1,3832 @@
+{
+  "Categories": [
+    {
+      "Name": "Блузки и рубашки",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/bluzki-i-rubashki"
+    },
+    {
+      "Name": "Брюки",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/bryuki-i-shorty"
+    },
+    {
+      "Name": "Верхняя одежда",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/verhnyaya-odezhda"
+    },
+    {
+      "Name": "Водолазки",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/vodolazki"
+    },
+    {
+      "Name": "Джемперы и кардиганы",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/dzhempery-i-kardigany"
+    },
+    {
+      "Name": "Джинсы",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/dzhinsy-dzhegginsy"
+    },
+    {
+      "Name": "Жилеты",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/zhilety"
+    },
+    {
+      "Name": "Карнавальные костюмы",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/karnavalnye-kostyumy"
+    },
+    {
+      "Name": "Кигуруми",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/kigurumi"
+    },
+    {
+      "Name": "Комбинезоны",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/kombinezony-polukombinezony"
+    },
+    {
+      "Name": "Костюмы",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/kostyumy"
+    },
+    {
+      "Name": "Лонгсливы",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/longslivy"
+    },
+    {
+      "Name": "Мантии",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/mantii"
+    },
+    {
+      "Name": "Пиджаки и жакеты",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/pidzhaki-i-zhakety"
+    },
+    {
+      "Name": "Платья и сарафаны",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/platya"
+    },
+    {
+      "Name": "Свитшоты",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/svitshoty"
+    },
+    {
+      "Name": "Толстовки",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/tolstovki"
+    },
+    {
+      "Name": "Туники",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/tuniki"
+    },
+    {
+      "Name": "Футболки и топы",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/futbolki-i-topy"
+    },
+    {
+      "Name": "Худи",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/hudi"
+    },
+    {
+      "Name": "Юбки",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/yubki"
+    },
+    {
+      "Name": "Шорты",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/bryuki-i-shorty/shorty"
+    },
+    {
+      "Name": "Белье",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bolshie-razmery/bele"
+    },
+    {
+      "Name": "Блузки, рубашки, туники",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bolshie-razmery/bluzki-rubashki-tuniki"
+    },
+    {
+      "Name": "Джинсы, брюки",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bolshie-razmery/dzhinsy-bryuki"
+    },
+    {
+      "Name": "Купальники",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bolshie-razmery/kupalniki"
+    },
+    {
+      "Name": "Одежда для дома",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bolshie-razmery/odezhda-dlya-doma"
+    },
+    {
+      "Name": "Пиджаки, жакеты",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bolshie-razmery/pidzhaki-zhakety"
+    },
+    {
+      "Name": "Платья, сарафаны",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bolshie-razmery/platya"
+    },
+    {
+      "Name": "Пуловеры, кофты, свитеры",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bolshie-razmery/pulovery-kofty-svitery"
+    },
+    {
+      "Name": "Топы, футболки",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bolshie-razmery/topy-futbolki"
+    },
+    {
+      "Name": "Аксессуары",
+      "PageUrl": "https://www.wildberries.ru/catalog/budushchie-mamy/aksessuary"
+    },
+    {
+      "Name": "Белье и купальники",
+      "PageUrl": "https://www.wildberries.ru/catalog/budushchie-mamy/bele"
+    },
+    {
+      "Name": "Блузки, рубашки",
+      "PageUrl": "https://www.wildberries.ru/catalog/budushchie-mamy/bluzki-koftochki"
+    },
+    {
+      "Name": "Брюки, джинсы",
+      "PageUrl": "https://www.wildberries.ru/catalog/budushchie-mamy/bryuki-dzhinsy"
+    },
+    {
+      "Name": "Костюмы, комбинезоны",
+      "PageUrl": "https://www.wildberries.ru/catalog/budushchie-mamy/kostyumy-kombinezony"
+    },
+    {
+      "Name": "Одежда для кормящих мам",
+      "PageUrl": "https://www.wildberries.ru/catalog/budushchie-mamy/odezhda-dlya-kormyashchih-mam"
+    },
+    {
+      "Name": "Пиджаки, жилеты",
+      "PageUrl": "https://www.wildberries.ru/catalog/budushchie-mamy/pidzhaki-zhilety"
+    },
+    {
+      "Name": "Пуловеры, джемперы",
+      "PageUrl": "https://www.wildberries.ru/catalog/budushchie-mamy/pulovery-dzhempery"
+    },
+    {
+      "Name": "Собираемся в роддом",
+      "PageUrl": "https://www.wildberries.ru/catalog/budushchie-mamy/sobiraemsya-v-roddom"
+    },
+    {
+      "Name": "Шорты, юбки",
+      "PageUrl": "https://www.wildberries.ru/catalog/budushchie-mamy/shorty-yubki"
+    },
+    {
+      "Name": "Для высоких",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/dlya-vysokih"
+    },
+    {
+      "Name": "Для невысоких",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/dlya-nevysokih"
+    },
+    {
+      "Name": "Бандажи",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bele-i-kupalniki/bandazhi"
+    },
+    {
+      "Name": "Бесшовное",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bele/besshovnoe"
+    },
+    {
+      "Name": "Боди и корсеты",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bele-i-kupalniki/bodi-i-korsety"
+    },
+    {
+      "Name": "Бюстгальтеры и бюстье",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bele-i-kupalniki/byustgaltery"
+    },
+    {
+      "Name": "Колготки и чулки",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bele-i-kupalniki/kolgotki-i-chulki"
+    },
+    {
+      "Name": "Комбинации и неглиже",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bele-i-kupalniki/kombinatsii-i-neglizhe"
+    },
+    {
+      "Name": "Комплекты белья",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bele-i-kupalniki/komplekty-belya"
+    },
+    {
+      "Name": "Корректирующее белье",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bele-i-kupalniki/korrektiruyushchee-bele"
+    },
+    {
+      "Name": "Майки",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bele-i-kupalniki/mayki"
+    },
+    {
+      "Name": "Термобелье",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bele-i-kupalniki/termobele"
+    },
+    {
+      "Name": "Трусы",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bele-i-kupalniki/trusy"
+    },
+    {
+      "Name": "Брюки и шорты",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda-dlya-doma/bryuki-i-shorty"
+    },
+    {
+      "Name": "Блузки и туники",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda-dlya-doma/bluzki-i-tuniki"
+    },
+    {
+      "Name": "Жакеты и жилеты",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda-dlya-doma/zhakety-i-zhilety"
+    },
+    {
+      "Name": "Костюмы и комбинезоны",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda-dlya-doma/kostyumy-i-kombinezony"
+    },
+    {
+      "Name": "Пижамы и сорочки",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda-dlya-doma/pizhamy-i-sorochki"
+    },
+    {
+      "Name": "Платья, сарафаны и юбки",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda-dlya-doma/platya-sarafany-i-yubki"
+    },
+    {
+      "Name": "Толстовки и лонгсливы",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda-dlya-doma/tolstovki-i-longslivy"
+    },
+    {
+      "Name": "Топы и футболки",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda-dlya-doma/topy-i-futbolki"
+    },
+    {
+      "Name": "Халаты",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda-dlya-doma/halaty"
+    },
+    {
+      "Name": "Джемперы",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/ofis/dzhempery"
+    },
+    {
+      "Name": "Кардиганы",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/ofis/kardigany"
+    },
+    {
+      "Name": "Пиджаки и жилеты",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/ofis/pidzhaki-i-zhilety"
+    },
+    {
+      "Name": "Платья",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda/ofisnye-platya"
+    },
+    {
+      "Name": "Сарафаны",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/ofis/sarafany"
+    },
+    {
+      "Name": "Одежда",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/odezhda-dlya-plyazha"
+    },
+    {
+      "Name": "Ислам",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/religioznaya/islam"
+    },
+    {
+      "Name": "Православие",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/religioznaya/pravoslavie"
+    },
+    {
+      "Name": "Обувь для невесты",
+      "PageUrl": "https://www.wildberries.ru/catalog/svadba/tufli-nevestu"
+    },
+    {
+      "Name": "Обувь для подружек невесты",
+      "PageUrl": "https://www.wildberries.ru/catalog/svadba/obuv-dlya-podruzhek-nevesty"
+    },
+    {
+      "Name": "Платья подружек невесты",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/svadba/platya-podruzhek-nevesty"
+    },
+    {
+      "Name": "Свадебные платья",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/svadba/svadebnye-platya"
+    },
+    {
+      "Name": "Медицинская одежда",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/spetsodezhda/meditsinskaya-odezhda"
+    },
+    {
+      "Name": "Униформа и рабочая одежда",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/spetsodezhda/rabochaya-odezhda"
+    },
+    {
+      "Name": "Головные уборы",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/spetsodezhda/golovnye-ubory"
+    },
+    {
+      "Name": "Рабочая обувь",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/spetsodezhda/rabochaya-obuv"
+    },
+    {
+      "Name": "Одноразовые изделия",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/spetsodezhda/odnorazovye-izdeliya"
+    },
+    {
+      "Name": "Средства защиты органов дыхания",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/spetsodezhda/sredstva-zashchity-organov-dyhaniya"
+    },
+    {
+      "Name": "Средства индивидуальной защиты",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/spetsodezhda/sredstva-individualnoy-zashchity"
+    },
+    {
+      "Name": "Подруге",
+      "PageUrl": "https://www.wildberries.ru/catalog/podarki/zhenshchinam/podruge"
+    },
+    {
+      "Name": "Маме",
+      "PageUrl": "https://www.wildberries.ru/catalog/podarki/zhenshchinam/mame"
+    },
+    {
+      "Name": "Бабушке",
+      "PageUrl": "https://www.wildberries.ru/catalog/podarki/zhenshchinam/babushke"
+    },
+    {
+      "Name": "Коллеге",
+      "PageUrl": "https://www.wildberries.ru/catalog/podarki/zhenshchinam/kollege"
+    },
+    {
+      "Name": "Любимой",
+      "PageUrl": "https://www.wildberries.ru/catalog/podarki/zhenshchinam/lyubimoy"
+    },
+    {
+      "Name": "Именные подарки",
+      "PageUrl": "https://www.wildberries.ru/catalog/podarki-/imennye-podarki"
+    },
+    {
+      "Name": "Для девочек",
+      "PageUrl": "https://www.wildberries.ru/catalog/obuv/detskaya/dlya-devochek"
+    },
+    {
+      "Name": "Для мальчиков",
+      "PageUrl": "https://www.wildberries.ru/catalog/obuv/detskaya/dlya-malchikov"
+    },
+    {
+      "Name": "Для новорожденных",
+      "PageUrl": "https://www.wildberries.ru/catalog/obuv/dlya-novorozhdennyh"
+    },
+    {
+      "Name": "Балетки и чешки",
+      "PageUrl": "https://www.wildberries.ru/catalog/obuv/zhenskaya/baletki-i-cheshki"
+    },
+    {
+      "Name": "Босоножки и сандалии",
+      "PageUrl": "https://www.wildberries.ru/catalog/obuv/zhenskaya/bosonozhki"
+    },
+    {
+      "Name": "Ботинки и полуботинки",
+      "PageUrl": "https://www.wildberries.ru/catalog/obuv/zhenskaya/botinki-i-polubotinki"
+    },
+    {
+      "Name": "Кеды и кроссовки",
+      "PageUrl": "https://www.wildberries.ru/catalog/obuv/zhenskaya/kedy-i-krossovki"
+    },
+    {
+      "Name": "Мокасины и топсайдеры",
+      "PageUrl": "https://www.wildberries.ru/catalog/obuv/zhenskaya/mokasiny-i-topsaydery"
+    },
+    {
+      "Name": "Сабо и мюли",
+      "PageUrl": "https://www.wildberries.ru/catalog/obuv/zhenskaya/sabo-i-myuli"
+    },
+    {
+      "Name": "Сапоги",
+      "PageUrl": "https://www.wildberries.ru/catalog/obuv/zhenskaya/sapogi"
+    },
+    {
+      "Name": "Тапочки",
+      "PageUrl": "https://www.wildberries.ru/catalog/obuv/zhenskaya/tapochki"
+    },
+    {
+      "Name": "Туфли и лоферы",
+      "PageUrl": "https://www.wildberries.ru/catalog/obuv/zhenskaya/tufli-lofery"
+    },
+    {
+      "Name": "Шлепанцы и аквасоки",
+      "PageUrl": "https://www.wildberries.ru/catalog/obuv/zhenskaya/shlepantsy-i-akvasoki"
+    },
+    {
+      "Name": "Сапоги и унты",
+      "PageUrl": "https://www.wildberries.ru/catalog/obuv/muzhskaya/sapogi-i-unty"
+    },
+    {
+      "Name": "Ортопедическая обувь",
+      "PageUrl": "https://www.wildberries.ru/catalog/obuv/ortopedicheskaya-obuv"
+    },
+    {
+      "Name": "Аксессуары для обуви",
+      "PageUrl": "https://www.wildberries.ru/catalog/obuv/aksessuary-dlya-obuvi"
+    },
+    {
+      "Name": "Джинсы и джеггинсы",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/odezhda/dlya-devochek/dzhinsy-dzhegginsy"
+    },
+    {
+      "Name": "Комбинезоны и полукомбинезоны",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/odezhda/dlya-devochek/kombinezony"
+    },
+    {
+      "Name": "Купальные костюмы",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/odezhda/dlya-devochek/kupalnye-kostyumy"
+    },
+    {
+      "Name": "Обувь",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/dlya-devochek/obuv"
+    },
+    {
+      "Name": "Фартуки",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/odezhda/dlya-devochek/fartuki"
+    },
+    {
+      "Name": "Плавки и бордшорты",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/odezhda/dlya-malchikov/plavki-i-bordshorty"
+    },
+    {
+      "Name": "Рубашки",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/odezhda/dlya-malchikov/rubashki"
+    },
+    {
+      "Name": "Футболки и майки",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/odezhda/dlya-malchikov/futbolki-i-mayki"
+    },
+    {
+      "Name": "Боди и ползунки",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/odezhda/dlya-novorozhdennyh/bodi-polzunki"
+    },
+    {
+      "Name": "Жакеты и болеро",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/odezhda/dlya-novorozhdennyh/zhakety-bolero"
+    },
+    {
+      "Name": "Конверты и спальные мешки",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/odezhda/dlya-novorozhdennyh/konverty"
+    },
+    {
+      "Name": "Костюмы и комплекты",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/odezhda/dlya-novorozhdennyh/kostyumy"
+    },
+    {
+      "Name": "Кофточки и джемперы",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/odezhda/dlya-novorozhdennyh/koftochki-dzhempery"
+    },
+    {
+      "Name": "Одежда на выписку",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/dlya-novorozhdennyh/odezhda-na-vypisku"
+    },
+    {
+      "Name": "Пинетки",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/dlya-novorozhdennyh/pinetki"
+    },
+    {
+      "Name": "Платья и юбки",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/odezhda/dlya-novorozhdennyh/platya-yubki"
+    },
+    {
+      "Name": "Распашонки",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/odezhda/dlya-novorozhdennyh/raspashonki"
+    },
+    {
+      "Name": "Детская электроника",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/detskaya-elektronika"
+    },
+    {
+      "Name": "Конструкторы",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/konstruktory"
+    },
+    {
+      "Name": "Детский транспорт",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/dlya-detey/detskiy-transport"
+    },
+    {
+      "Name": "Детское питание",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/detskoe-pitanie"
+    },
+    {
+      "Name": "Аксессуары для кормления",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/tovary-dlya-malysha/aksessuary-dlya-kormleniya"
+    },
+    {
+      "Name": "Аксессуары для купания",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/tovary-dlya-malysha/aksessuary-dlya-kupaniya"
+    },
+    {
+      "Name": "Безопасность ребенка",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/tovary-dlya-malysha/bezopasnost-rebenka"
+    },
+    {
+      "Name": "Влажные салфетки",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/tovary-dlya-malysha/podguzniki/podguzniki-detskie/salfetki"
+    },
+    {
+      "Name": "Гигиена и уход",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/tovary-dlya-malysha/gigiena-i-uhod"
+    },
+    {
+      "Name": "Мебель",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/tovary-dlya-malysha/mebel"
+    },
+    {
+      "Name": "Пеленки, слюнявчики, царапки",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/tovary-dlya-malysha/pelenki-slyunyavchiki"
+    },
+    {
+      "Name": "Передвижение",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/tovary-dlya-malysha/peredvizhenie"
+    },
+    {
+      "Name": "Постельные принадлежности",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/tovary-dlya-malysha/postelnye-prinadlezhnosti"
+    },
+    {
+      "Name": "Подгузники",
+      "PageUrl": "https://www.wildberries.ru/catalog/detyam/tovary-dlya-malysha/podguzniki/podguzniki-detskie"
+    },
+    {
+      "Name": "Подарки детям",
+      "PageUrl": "https://www.wildberries.ru/catalog/podarki/detyam"
+    },
+    {
+      "Name": "Белье и плавки",
+      "PageUrl": "https://www.wildberries.ru/catalog/muzhchinam/bolshie-razmery/bele-i-plavki"
+    },
+    {
+      "Name": "Брюки и джинсы",
+      "PageUrl": "https://www.wildberries.ru/catalog/muzhchinam/bolshie-razmery/bryuki-i-dzhinsy"
+    },
+    {
+      "Name": "Джемперы и толстовки",
+      "PageUrl": "https://www.wildberries.ru/catalog/muzhchinam/bolshie-razmery/dzhempery-i-tolstovki"
+    },
+    {
+      "Name": "Костюмы и пиджаки",
+      "PageUrl": "https://www.wildberries.ru/catalog/muzhchinam/bolshie-razmery/kostyumy-i-pidzhaki"
+    },
+    {
+      "Name": "Футболки",
+      "PageUrl": "https://www.wildberries.ru/catalog/muzhchinam/bolshie-razmery/futbolki"
+    },
+    {
+      "Name": "Офис",
+      "PageUrl": "https://www.wildberries.ru/catalog/muzhchinam/ofis"
+    },
+    {
+      "Name": "Пляжная одежда",
+      "PageUrl": "https://www.wildberries.ru/catalog/muzhchinam/plyazhnay-odezhda"
+    },
+    {
+      "Name": "Свадьба",
+      "PageUrl": "https://www.wildberries.ru/catalog/muzhchinam/svadba"
+    },
+    {
+      "Name": "Другу",
+      "PageUrl": "https://www.wildberries.ru/catalog/podarki/muzhchinam/drugu"
+    },
+    {
+      "Name": "Папе",
+      "PageUrl": "https://www.wildberries.ru/catalog/podarki/muzhchinam/pape"
+    },
+    {
+      "Name": "Дедушке",
+      "PageUrl": "https://www.wildberries.ru/catalog/podarki/muzhchinam/dedushke"
+    },
+    {
+      "Name": "Любимому",
+      "PageUrl": "https://www.wildberries.ru/catalog/podarki/muzhchinam/lyubimomu"
+    },
+    {
+      "Name": "Для детей",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/vannaya/dlya-detey"
+    },
+    {
+      "Name": "Коврики",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/vannaya/kovriki"
+    },
+    {
+      "Name": "Корзинки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/vannaya/korzinki"
+    },
+    {
+      "Name": "Мебель, зеркала, шторы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/vannaya/mebel-zerkala-shtory"
+    },
+    {
+      "Name": "Полотенца",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/vannaya/polotentsa"
+    },
+    {
+      "Name": "Сантехника",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/vannaya/santehnika"
+    },
+    {
+      "Name": "Аксессуары для напитков",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/aksessuary-dlya-napitkov"
+    },
+    {
+      "Name": "Аксессуары для специй",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/aksessuary-dlya-spetsiy"
+    },
+    {
+      "Name": "Бокалы и стаканы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/bokaly-i-stakany"
+    },
+    {
+      "Name": "Выпечка и запекание",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/posuda/protivni-i-formy"
+    },
+    {
+      "Name": "Графины и кувшины",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/grafiny-i-kuvshiny"
+    },
+    {
+      "Name": "Декоративная посуда",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/kuhnya/dekorativnaya-posuda"
+    },
+    {
+      "Name": "Емкости для хранения",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/emkosti-dlya-hraneniya"
+    },
+    {
+      "Name": "Измельчители и соковыжималки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/izmelchiteli-i-sokovyzhimalki"
+    },
+    {
+      "Name": "Кастрюли и сковороды",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/kastryuli-i-skovorody"
+    },
+    {
+      "Name": "Кружки",
+      "PageUrl": "https://www.wildberries.ru/catalog/kuhnya/posuda/bokaly-i-kruzhki/kruzhki"
+    },
+    {
+      "Name": "Кухонная утварь",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/kuhonnaya-utvar"
+    },
+    {
+      "Name": "Кухонный декор",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/kuhonniy-dekor"
+    },
+    {
+      "Name": "Кухонный текстиль",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/kuhonniy-tekstil"
+    },
+    {
+      "Name": "Ножи и аксессуары",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/nozhi-kuhonnye"
+    },
+    {
+      "Name": "Посуда для микроволновой печи",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/emkosti-dlya-hraneniya/posuda-dlya-mikrovolnovoy-pechi"
+    },
+    {
+      "Name": "Порядок на кухне",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/poryadok-na-kuhne"
+    },
+    {
+      "Name": "Разделочные доски",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/posuda/razdelochnye-doski"
+    },
+    {
+      "Name": "Сервизы и наборы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/servizy-i-nabory"
+    },
+    {
+      "Name": "Сервировка стола",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/servirovka-stola"
+    },
+    {
+      "Name": "Столовое серебро",
+      "PageUrl": "https://www.wildberries.ru/catalog/yuvelirnye-ukrasheniya/stolovoe-serebro"
+    },
+    {
+      "Name": "Столовые приборы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/stolovye-pribory"
+    },
+    {
+      "Name": "Тарелки и блюда",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/tarelki-i-blyuda"
+    },
+    {
+      "Name": "Термопосуда",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/termosy-termosumki"
+    },
+    {
+      "Name": "Фильтры для воды",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/kuhnya/filtry-dlya-vody"
+    },
+    {
+      "Name": "Хлебницы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/posuda/hlebnitsy"
+    },
+    {
+      "Name": "Чайники и кофейники",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/kuhnya/chayniki-i-kofeyniki"
+    },
+    {
+      "Name": "Бары, фонтаны, камины",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/predmety-interera/bary-kaminy-fontany"
+    },
+    {
+      "Name": "Картины",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/predmety-interera/kartiny"
+    },
+    {
+      "Name": "Наклейки и декор",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/predmety-interera/dekorativnye-nakleyki"
+    },
+    {
+      "Name": "Подушки и чехлы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/predmety-interera/podushki-i-chehly"
+    },
+    {
+      "Name": "Свечи и подсвечники",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/predmety-interera/svechi-i-podsvechniki"
+    },
+    {
+      "Name": "Часы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/predmety-interera/chasy"
+    },
+    {
+      "Name": "Декорации настенные",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/spalnya/dekoratsii-nastennye"
+    },
+    {
+      "Name": "Зеркала",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/predmety-interera/zerkala"
+    },
+    {
+      "Name": "Матрасы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/postelnye-prinadlezhnosti/matrasy-dlya-krovati"
+    },
+    {
+      "Name": "Коврики комнатные",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/predmety-interera/kovriki"
+    },
+    {
+      "Name": "Освещение",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/spalnya/osveshchenie"
+    },
+    {
+      "Name": "Подушки декоративные",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/predmety-interera/podushki-i-chehly/dekorativnye-podushki"
+    },
+    {
+      "Name": "Хранение вещей",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/spalnya/hranenie-veshchey"
+    },
+    {
+      "Name": "Шторы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/spalnya/shtory"
+    },
+    {
+      "Name": "Коробки для хранения",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/gostinnaya/korobki-dlya-hraneniya"
+    },
+    {
+      "Name": "Безопасность",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/detskaya/bezopasnost"
+    },
+    {
+      "Name": "Предметы интерьера",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/detskaya/predmety-interera"
+    },
+    {
+      "Name": "Все для праздника",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/vse-dlya-prazdnika"
+    },
+    {
+      "Name": "Коллекционирование",
+      "PageUrl": "https://www.wildberries.ru/catalog/kantstovary/kollektsionirovanie"
+    },
+    {
+      "Name": "Настольные игры",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/nastolnye-igry/dlya-vzroslyh"
+    },
+    {
+      "Name": "Профессиональные музыкальные инструменты",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/professionalnye-muzykalnye-instrumenty"
+    },
+    {
+      "Name": "Творчество и рукоделие",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/tvorchestvo-rukodelie"
+    },
+    {
+      "Name": "Кронштейны",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/mebel/kronshteiny"
+    },
+    {
+      "Name": "Для курения",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dlya-kureniya"
+    },
+    {
+      "Name": "Мангалы и коптильни",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/otdyh-na-prirode/mangaly-koptilni"
+    },
+    {
+      "Name": "Мебель и текстиль",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/otdyh-na-prirode/mebel-i-tekstil"
+    },
+    {
+      "Name": "Посуда",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/otdyh-na-prirode/posuda"
+    },
+    {
+      "Name": "Развлечения",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/otdyh-na-prirode/razvlecheniya"
+    },
+    {
+      "Name": "Реппеленты",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/sportivniy-inventar/repellenty"
+    },
+    {
+      "Name": "Парфюмерия для дома",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/predmety-interera/parfyumeriya"
+    },
+    {
+      "Name": "Зеркала интерьерные",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/prihozhaya/zerkala-interernye"
+    },
+    {
+      "Name": "Коврики придверные",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/predmety-interera/kovriki/kovriki-pridvernye"
+    },
+    {
+      "Name": "Религия, эзотерика",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/predmety-religii"
+    },
+    {
+      "Name": "Сувенирная продукция",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/predmety-interera/suvenirnaya-produktsiya"
+    },
+    {
+      "Name": "Бумага и пластик",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/hozyaystvennye-tovary/bumaga-i-plastik"
+    },
+    {
+      "Name": "Ванная и туалет",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/hozyaystvennye-tovary/vannaya"
+    },
+    {
+      "Name": "Глажка",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/hozyaystvennye-tovary/stirka/glazhka"
+    },
+    {
+      "Name": "Кухня",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/hozyaystvennye-tovary/kuhnya"
+    },
+    {
+      "Name": "Против насекомых и грызунов",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/hozyaystvennye-tovary/protiv-nasekomyh-i-gryzunov"
+    },
+    {
+      "Name": "Стирка",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/hozyaystvennye-tovary/stirka"
+    },
+    {
+      "Name": "Товары для уборки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/hozyaystvennye-tovary/tovary-dlya-uborki"
+    },
+    {
+      "Name": "Уход за одеждой",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/hozyaystvennye-tovary/stirka/zashchita"
+    },
+    {
+      "Name": "Уход за техникой",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/bytovaya-himiya/uhod-za-tehnikoy"
+    },
+    {
+      "Name": "Щетки и ролики",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/hozyaystvennye-tovary/stirka/shchetki-i-roliki"
+    },
+    {
+      "Name": "Вакуумные пакеты, насосы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/hranenie-veshchey/vakuumnye-pakety-nasosy"
+    },
+    {
+      "Name": "Вешалки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/hranenie-veshchey/veshalki"
+    },
+    {
+      "Name": "Держатели для медалей",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/hranenie-veshchey/derzhateli-dlya-medaley"
+    },
+    {
+      "Name": "Держатели для украшений",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/hranenie-veshchey/derzhateli-dlya-ukrasheniy"
+    },
+    {
+      "Name": "Ключницы настенные",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/hranenie-veshchey/klyuchnitsy-nastennye"
+    },
+    {
+      "Name": "Коробки, корзинки, кейсы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/hranenie-veshchey/korobki-korzinki-keysy"
+    },
+    {
+      "Name": "Крючки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/hranenie-veshchey/kryuchki"
+    },
+    {
+      "Name": "Магнитные держатели",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/hranenie-veshchey/magnitnye-derzhateli"
+    },
+    {
+      "Name": "Мешки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/hranenie-veshchey/meshki"
+    },
+    {
+      "Name": "Органайзеры",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/hranenie-veshchey/organayzery"
+    },
+    {
+      "Name": "Подставки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/hranenie-veshchey/podstavki"
+    },
+    {
+      "Name": "Системы хранения",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/hranenie-veshchey/sistemy-hraneniya"
+    },
+    {
+      "Name": "Стеллажи, этажерки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/hranenie-veshchey/stellazhi-etazherki"
+    },
+    {
+      "Name": "Чехлы для одежды",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/hranenie-veshchey/chehly-dlya-hraneniya"
+    },
+    {
+      "Name": "Шкатулки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/predmety-interera/shkatulki"
+    },
+    {
+      "Name": "Цветы, вазы и кашпо",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/predmety-interera/tsvety-vazy-kashpo"
+    },
+    {
+      "Name": "Подарки ",
+      "PageUrl": "https://www.wildberries.ru/catalog/podarki-novyy-god"
+    },
+    {
+      "Name": "Вкусные подарки",
+      "PageUrl": "https://www.wildberries.ru/catalog/noviy-god/vkusnye-podarki"
+    },
+    {
+      "Name": "Праздничные платья",
+      "PageUrl": "https://www.wildberries.ru/catalog/prazdnichnye-platya"
+    },
+    {
+      "Name": "Праздничная обувь",
+      "PageUrl": "https://www.wildberries.ru/catalog/prazdnichnaya-obuv"
+    },
+    {
+      "Name": "Наряды для детей",
+      "PageUrl": "https://www.wildberries.ru/catalog/novyy-god/naryady-dlya-detey"
+    },
+    {
+      "Name": "Новогодние книги",
+      "PageUrl": "https://www.wildberries.ru/catalog/noviy-god/novogodnie-knigi"
+    },
+    {
+      "Name": "Новогодние украшения",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/vse-dlya-prazdnika/ukrasheniya"
+    },
+    {
+      "Name": "Новогодний стол",
+      "PageUrl": "https://www.wildberries.ru/catalog/novogodniy-stol"
+    },
+    {
+      "Name": "Продукты к Новогоднему столу",
+      "PageUrl": "https://www.wildberries.ru/catalog/noviy-god/produkty-k-novogodnemu-stolu"
+    },
+    {
+      "Name": "Новогодние аксессуары",
+      "PageUrl": "https://www.wildberries.ru/catalog/novyy-god/novogodnie-akssesuary"
+    },
+    {
+      "Name": "Елки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/predmety-interera/prazdnichnye-ukrasheniya/elki"
+    },
+    {
+      "Name": "Вечерний образ",
+      "PageUrl": "https://www.wildberries.ru/catalog/vecherniy-obraz"
+    },
+    {
+      "Name": "Для бритья и удаления волос",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/aksessuary/dlya-britya-i-udaleniya-volos"
+    },
+    {
+      "Name": "Для ванны и душа",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/aksessuary/dlya-vanny-i-dusha"
+    },
+    {
+      "Name": "Для макияжа",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/aksessuary/aksessuary-dlya-makiyazha"
+    },
+    {
+      "Name": "Для маникюра и педикюра",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/aksessuary/dlya-manikyura-i-pedikyura"
+    },
+    {
+      "Name": "Для солярия и косметических процедур",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/aksessuary/odnorazovaya-odezhda"
+    },
+    {
+      "Name": "Косметические принадлежности",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/uhod-za-kozhey/kosmeticheskie-apparaty"
+    },
+    {
+      "Name": "Материалы для наращивания ресниц",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/aksessuary/materialy-dlya-narashchivaniya-resnits"
+    },
+    {
+      "Name": "Материалы для тату-салонов",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/materialy-dlya-tatu-salonov"
+    },
+    {
+      "Name": "Органайзеры и флаконы",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/aksessuary/organayzery-i-chehly"
+    },
+    {
+      "Name": "Расчески и бигуди",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/aksessuary/rascheski-i-bigudi"
+    },
+    {
+      "Name": "Для роста волос",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/volosy/dlya-rosta"
+    },
+    {
+      "Name": "Наращивание волос",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/volosy/narashchivanie-volos"
+    },
+    {
+      "Name": "Окрашивание волос и химическая завивка",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/volosy/kraski-dlya-volos"
+    },
+    {
+      "Name": "Стайлинг",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/volosy/stayling"
+    },
+    {
+      "Name": "Уход за волосами",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/volosy/uhod-za-volosami"
+    },
+    {
+      "Name": "Шампуни и кондиционеры",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/volosy/shampuni-i-konditsionery"
+    },
+    {
+      "Name": "Аптечная косметика",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/aptechnaya-kosmetika"
+    },
+    {
+      "Name": "Детская декоративная косметика",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/detskaya-dekorativnaya-kosmetika"
+    },
+    {
+      "Name": "Для загара",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/zashchita-ot-solntsa"
+    },
+    {
+      "Name": "Для мам и малышей",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/dlya-mam-i-malyshey"
+    },
+    {
+      "Name": "Израильская косметика",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/izrailskaya-kosmetika"
+    },
+    {
+      "Name": "Инструменты и принадлежности",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/instrumenty-dlya-parikmaherov/instrumenty-i-prinadlezhnosti"
+    },
+    {
+      "Name": "Косметика",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/instrumenty-dlya-parikmaherov/kosmetika"
+    },
+    {
+      "Name": "Машинки и фены",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/instrumenty-dlya-parikmaherov/parikmaherskaya-tehnika"
+    },
+    {
+      "Name": "Расчески парикмахерские",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/instrumenty-dlya-parikmaherov/rascheski-parikmaherskie"
+    },
+    {
+      "Name": "Корейские бренды",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/koreyskie-brendy"
+    },
+    {
+      "Name": "Косметические аппараты и аксессуары",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/kosmeticheskie-apparaty"
+    },
+    {
+      "Name": "Брови",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/makiyazh/glaza/makiyazh-brovey/krasota"
+    },
+    {
+      "Name": "Глаза",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/makiyazh/glaza"
+    },
+    {
+      "Name": "Губы",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/makiyazh/guby"
+    },
+    {
+      "Name": "Лицо",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/makiyazh/litso"
+    },
+    {
+      "Name": "Для волос",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/muzhskaya-liniya/dlya-volos"
+    },
+    {
+      "Name": "Для бороды и усов",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/volosy/dlya-borody-i-usov"
+    },
+    {
+      "Name": "Для бритья",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/uhod-za-kozhey/dlya-britya"
+    },
+    {
+      "Name": "Уход за лицом и телом",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/muzhskaya-liniya/uhod-za-litsom-i-telom"
+    },
+    {
+      "Name": "Гель-лаки",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/nogti/gel-laki"
+    },
+    {
+      "Name": "Дезинфекция и антисептика",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/nogti/dezinfektsiya-i-antiseptika"
+    },
+    {
+      "Name": "Для снятия лака",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/nogti/dlya-snyatiya-laka"
+    },
+    {
+      "Name": "Лаки",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/nogti/laki-dlya-nogtey"
+    },
+    {
+      "Name": "Наборы",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/nogti/nabory"
+    },
+    {
+      "Name": "Накладные ногти и декор",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/nogti/nakladnye-nogti-i-dekor"
+    },
+    {
+      "Name": "Уход за ногтями",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/nogti/uhod-za-nogtyami"
+    },
+    {
+      "Name": "Органическая косметика",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/organicheskaya-kosmetika"
+    },
+    {
+      "Name": "Детские ароматы",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/parfyumeriya/detskie-aromaty"
+    },
+    {
+      "Name": "Женские ароматы",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/parfyumeriya/zhenskie-aromaty"
+    },
+    {
+      "Name": "Мужские ароматы",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/parfyumeriya/muzhskie-aromaty"
+    },
+    {
+      "Name": "Подарочные наборы",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/podarochnye-nabory"
+    },
+    {
+      "Name": "Профессиональная косметика",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/professionalnaya-kosmetika/krasota"
+    },
+    {
+      "Name": "Средства личной гигиены",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/sredstva-lichnoy-gigieny"
+    },
+    {
+      "Name": "Гигиена полости рта",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/uhod-za-zubami"
+    },
+    {
+      "Name": "Борьба с несовершенствами",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/uhod-za-kozhey/borba-s-nesovershenstvami"
+    },
+    {
+      "Name": "Дезодоранты",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/uhod-za-kozhey/dezodoranty-dlya-tela"
+    },
+    {
+      "Name": "Интимная гигиена",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/uhod-za-kozhey/intimnaya-gigiena"
+    },
+    {
+      "Name": "Удаление волос",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/uhod-za-kozhey/udalenie-volos/krasota"
+    },
+    {
+      "Name": "Уход для глаз и бровей",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/uhod-za-kozhey/uhod-dlya-glaz"
+    },
+    {
+      "Name": "Уход для губ",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/uhod-za-kozhey/uhod-dlya-gub"
+    },
+    {
+      "Name": "Уход за лицом",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/uhod-za-kozhey/uhod-za-litsom"
+    },
+    {
+      "Name": "Уход за ногами",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/uhod-za-kozhey/uhod-za-nogami"
+    },
+    {
+      "Name": "Уход за руками",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/uhod-za-kozhey/uhod-za-rukami"
+    },
+    {
+      "Name": "Уход за телом",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/uhod-za-kozhey/uhod-za-telom"
+    },
+    {
+      "Name": "Аксессуары для волос",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/aksessuary-dlya-volos"
+    },
+    {
+      "Name": "Аксессуары для одежды",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/dekor-dlya-odezhdy"
+    },
+    {
+      "Name": "Бижутерия",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/bizhuteriya"
+    },
+    {
+      "Name": "Веера",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/veera"
+    },
+    {
+      "Name": "Галстуки и бабочки",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/galstuki-i-babochki"
+    },
+    {
+      "Name": "Зеркальца",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/zerkaltsa"
+    },
+    {
+      "Name": "Зонты",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/zonty"
+    },
+    {
+      "Name": "Кошельки и кредитницы",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/koshelki-i-kreditnitsy"
+    },
+    {
+      "Name": "Маски для сна",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/maski-dlya-sna"
+    },
+    {
+      "Name": "Носовые платки",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/nosovye-platki"
+    },
+    {
+      "Name": "Аксессуары для очков",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/ochki-i-futlyary/aksessuary-dlya-ochkov"
+    },
+    {
+      "Name": "Оправы и линзы",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/ochki-i-futlyary/opravy-i-linzy"
+    },
+    {
+      "Name": "Очки для компьютера",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/ochki-i-futlyary/ochki-dlya-kompyutera"
+    },
+    {
+      "Name": "Очки корригирующие",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/ochki-i-futlyary/ochki-korrigiruyushchie"
+    },
+    {
+      "Name": "Солнцезащитные очки",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/ochki-i-futlyary/solntsezashchitnye-ochki"
+    },
+    {
+      "Name": "Перчатки и варежки",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/perchatki-i-varezhki"
+    },
+    {
+      "Name": "Платки и шарфы",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/platki-i-sharfy"
+    },
+    {
+      "Name": "Ремни и пояса",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/remni-i-poyasa"
+    },
+    {
+      "Name": "Аксессуары для сумок",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/sumki-i-ryukzaki/aksessuary-dlya-sumok"
+    },
+    {
+      "Name": "Клатчи",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/sumki-i-ryukzaki/klatchi"
+    },
+    {
+      "Name": "Косметички",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/sumki-i-ryukzaki/kosmetichki"
+    },
+    {
+      "Name": "Несессеры",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/sumki-i-ryukzaki/nesessery"
+    },
+    {
+      "Name": "Папки-сумки",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/sumki-i-ryukzaki/papki-sumki"
+    },
+    {
+      "Name": "Портфели",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/sumki-i-ryukzaki/portfeli"
+    },
+    {
+      "Name": "Рюкзаки",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/aksessuary/sumki-i-ryukzaki/ryukzaki"
+    },
+    {
+      "Name": "Сумки",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/sumki-i-ryukzaki/sumki"
+    },
+    {
+      "Name": "Для ноутбука",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/sumki/dlya-noutbuka"
+    },
+    {
+      "Name": "Сумки хозяйственные",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/hozyaystvennye-sumki/sumki-hozyaystvennye"
+    },
+    {
+      "Name": "Сумки-тележки",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/hozyaystvennye-sumki/sumki-telezhki"
+    },
+    {
+      "Name": "Часы и ремешки",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/chasy-i-remeshki"
+    },
+    {
+      "Name": "Чемоданы и защита багажа",
+      "PageUrl": "https://www.wildberries.ru/catalog/muzhchinam/aksessuary/chemodany-i-dorozhnye-sumki"
+    },
+    {
+      "Name": "Автоэлектроника и навигация",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/avtoelektronika"
+    },
+    {
+      "Name": "Гарнитуры и наушники",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/igry-i-razvlecheniya/aksessuary/garnitury"
+    },
+    {
+      "Name": "PlayStation",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/razvlecheniya-i-gadzhety/igrovye-konsoli/playstation"
+    },
+    {
+      "Name": "Xbox",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/razvlecheniya-i-gadzhety/igrovye-konsoli-i-igry/xbox"
+    },
+    {
+      "Name": "Nintendo",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/razvlecheniya-i-gadzhety/igrovye-konsoli-i-igry/nintendo"
+    },
+    {
+      "Name": "Приставки 8bit и 16bit",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/razvlecheniya-i-gadzhety/igrovye-konsoli/pristavki-8bit-i-16bit"
+    },
+    {
+      "Name": "Аксессуары для геймпадов",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/igrovye-konsoli-i-igry/aksessuary-dlya-geympadov"
+    },
+    {
+      "Name": "Аксессуары для консолей",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/razvlecheniya-i-gadzhety/gaming-accessories"
+    },
+    {
+      "Name": "Геймпады",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/razvlecheniya-i-gadzhety/geympady"
+    },
+    {
+      "Name": "Игры",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/razvlecheniya-i-gadzhety/diski-s-igrami"
+    },
+    {
+      "Name": "Кабели и зарядные устройства",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/kabeli-i-zaryadnye-ustroystva"
+    },
+    {
+      "Name": "Музыка и видео",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/muzyka-i-video"
+    },
+    {
+      "Name": "Ноутбуки",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/noutbuki-pereferiya/noutbuki-ultrabuki"
+    },
+    {
+      "Name": "Компьютеры и моноблоки",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/noutbuki-periferiya/kompyutery"
+    },
+    {
+      "Name": "Внешние накопители информации",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/noutbuki-i-kompyutery/vneshnie-nakopiteli-informatsii"
+    },
+    {
+      "Name": "Мониторы",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/noutbuki-periferiya/monitory"
+    },
+    {
+      "Name": "Комплектующие для ПК",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/noutbuki-i-kompyutery/komplektuyushchie-dlya-pk"
+    },
+    {
+      "Name": "Аксессуары для ноутбуков",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/noutbuki-pereferiya/notebook-accessories"
+    },
+    {
+      "Name": "Периферийные аксессуары",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/noutbuki-pereferiya/peripheral-accessories"
+    },
+    {
+      "Name": "ИБП и аксессуары",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/ofisnaya-tehnika/ibp-i-aksessuary"
+    },
+    {
+      "Name": "Ламинаторы, сканеры, шредеры",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/ofisnaya-tehnika/laminatory-skanery-shredery"
+    },
+    {
+      "Name": "МФУ",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/noutbuki-pereferiya/periferiynye-ustroystva/mfu"
+    },
+    {
+      "Name": "Оборудование для презентаций",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/ofisnaya-tehnika/oborudovanie-dlya-prezentatsiy"
+    },
+    {
+      "Name": "Принтеры",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/noutbuki-pereferiya/periferiynye-ustroystva/printery"
+    },
+    {
+      "Name": "Расходные материалы",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/ofisnaya-tehnika/rashodnye-materialy"
+    },
+    {
+      "Name": "3D-печать",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/ofisnaya-tehnika/3d-pechat"
+    },
+    {
+      "Name": "Развлечения и гаджеты",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/razvlecheniya-i-gadzhety"
+    },
+    {
+      "Name": "Сетевое оборудование",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/setevoe-oborudovanie"
+    },
+    {
+      "Name": "Системы видеонаблюдения",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/videonablyudenie"
+    },
+    {
+      "Name": "Аксессуары для систем видеонаблюдения",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/bezopasnost-doma/aksessuary-dlya-sistem-videonablyudeniya"
+    },
+    {
+      "Name": "Замки и домофоны",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/bezopasnost-doma/zamki-i-domofony"
+    },
+    {
+      "Name": "Сигнализация",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/bezopasnost-doma/signalizatsiya"
+    },
+    {
+      "Name": "Датчики и сенсоры",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/bezopasnost-doma/datchiki-i-sensory"
+    },
+    {
+      "Name": "SIM-карты",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/smartfony-i-telefony/sim-karty"
+    },
+    {
+      "Name": "Аксессуары для смартфонов",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/smartfony-i-telefony/aksessuary-dlya-smartfonov"
+    },
+    {
+      "Name": "Аксессуары для съемки",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/smartfony-i-telefony/aksessuary-dlya-semki"
+    },
+    {
+      "Name": "Держатели",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/smartfony-i-telefony/derzhateli"
+    },
+    {
+      "Name": "Запчасти для устройств",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/smartfony-i-telefony/zapchasti-dlya-ustroystv"
+    },
+    {
+      "Name": "Карты памяти",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/smartfony-i-telefony/karty-pamyati"
+    },
+    {
+      "Name": "Мобильные телефоны",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/telefony-i-gadzhety/mobilnye-telefony"
+    },
+    {
+      "Name": "Планшеты",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/planshety"
+    },
+    {
+      "Name": "Смартфоны",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/smartfony-i-telefony/vse-smartfony"
+    },
+    {
+      "Name": "Стационарные телефоны",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tehnika-dlya-doma/telefony-statsionarnye"
+    },
+    {
+      "Name": "Стекла и пленки",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/smartfony-i-telefony/stekla-i-plenki"
+    },
+    {
+      "Name": "Стилусы",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/smartfony-i-telefony/stilusy"
+    },
+    {
+      "Name": "Чехлы-книжки",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/smartfony-i-telefony/chehly-knizhki"
+    },
+    {
+      "Name": "Чехлы с держателем",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/smartfony-i-telefony/chehly-s-derzhatelem"
+    },
+    {
+      "Name": "Чехлы флип-кейс",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/smartfony-i-telefony/chehly-flip-keys"
+    },
+    {
+      "Name": "Чехлы-накладки",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/smartfony-i-telefony/chehly-nakladki"
+    },
+    {
+      "Name": "Чехлы-бамперы",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/smartfony-i-telefony/chehly-bampery"
+    },
+    {
+      "Name": "Чехлы-кармашки",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/smartfony-i-telefony/chehly-karmashki"
+    },
+    {
+      "Name": "Flash-накопители",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/smartfony-i-telefony/flash-nakopiteli"
+    },
+    {
+      "Name": "Смарт-часы и браслеты",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/smart-chasy"
+    },
+    {
+      "Name": "DVD и медиа-плееры",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tv-audio-foto-video-tehnika/dvd-pleery"
+    },
+    {
+      "Name": "Аксессуары для фото и видео техники",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/foto-i-video-tehnika/aksessuary"
+    },
+    {
+      "Name": "Аксессуары для телевизоров",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tv-audio-foto-video-tehnika/aksessuary-dlya-televizorov"
+    },
+    {
+      "Name": "Аудиотехника",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/audiotehnika"
+    },
+    {
+      "Name": "Видеокамеры",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tv-audio-foto-video-tehnika/videokamery"
+    },
+    {
+      "Name": "Микрофоны",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tv-audio-foto-video-tehnika/mikrofony"
+    },
+    {
+      "Name": "Наушники и гарнитуры",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tv-audio-foto-video-tehnika/naushniki-i-garnitury"
+    },
+    {
+      "Name": "Студийное оборудование",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tv-audio-foto-video-tehnika/studiynoe-oborudovanie"
+    },
+    {
+      "Name": "Телевизоры",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tv-audio-foto-video-tehnika/televizory/televizory"
+    },
+    {
+      "Name": "Подписки на сервис",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tv-audio-foto-video-tehnika/podpiski-na-servis"
+    },
+    {
+      "Name": "Фотоаппараты",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/foto-i-video-tehnika/fotoapparaty"
+    },
+    {
+      "Name": "Чехлы и рюкзаки",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/foto-i-video-tehnika/chehly-i-ryukzaki"
+    },
+    {
+      "Name": "Торговое оборудование",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/torgovoe-oborudovanie"
+    },
+    {
+      "Name": "Умный дом",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/umnyy-dom"
+    },
+    {
+      "Name": "Электротранспорт и аксессуары",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/elektrotransport-i-aksessuary"
+    },
+    {
+      "Name": "Антистресс",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/antistress"
+    },
+    {
+      "Name": "Бизиборды, игровые центры",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/dlya-malyshey/bizibordy"
+    },
+    {
+      "Name": "Каталки, качалки",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/dlya-malyshey/kachalki"
+    },
+    {
+      "Name": "Книжки-игрушки",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/dlya-malyshey/knizhki-igrushki"
+    },
+    {
+      "Name": "Кубики",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/dlya-malyshey/kubiki"
+    },
+    {
+      "Name": "Мобили, игрушки-подвески",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/dlya-malyshey/mobili"
+    },
+    {
+      "Name": "Неваляшки, юлы",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/dlya-malyshey/nevalyashki"
+    },
+    {
+      "Name": "Погремушки",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/dlya-malyshey/pogremushki"
+    },
+    {
+      "Name": "Сортеры, шнуровки",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/dlya-malyshey/sortery"
+    },
+    {
+      "Name": "Для песочницы",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/dlya-pesochnitsy"
+    },
+    {
+      "Name": "Игровые комплексы",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/igrovye-kompleksy"
+    },
+    {
+      "Name": "Игровые наборы",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/igrovye-nabory"
+    },
+    {
+      "Name": "Игрушечное оружие",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/igrushechnoe-oruzhie"
+    },
+    {
+      "Name": "Игрушечный транспорт",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/igrushechniy-transport"
+    },
+    {
+      "Name": "Игрушки для ванной",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/igrushki-dlya-vannoy"
+    },
+    {
+      "Name": "Интерактивные",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/interaktivnye"
+    },
+    {
+      "Name": "Кинетический песок",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/kineticheskiy-pesok"
+    },
+    {
+      "Name": "Конструкторы LEGO",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/konstruktory-lego"
+    },
+    {
+      "Name": "Куклы и аксессуары",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/kukly-i-aksessuary"
+    },
+    {
+      "Name": "Музыкальные",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/muzykalnye-instrumenty"
+    },
+    {
+      "Name": "Мыльные пузыри",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/mylnye-puzyri"
+    },
+    {
+      "Name": "Мягкие игрушки",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/myagkie-igrushki"
+    },
+    {
+      "Name": "Наборы для опытов",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/opyty"
+    },
+    {
+      "Name": "Радиоуправляемые",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/radioupravlyaemye-igrushki/radioupravlyaemye-igrushki"
+    },
+    {
+      "Name": "Развивающие игрушки",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/razvivayushchie-igrushki"
+    },
+    {
+      "Name": "Сборные модели",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/sbornye-modeli"
+    },
+    {
+      "Name": "Спортивные игры",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/sportivnye-igry"
+    },
+    {
+      "Name": "Сюжетно-ролевые игры",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/syuzhetno-rolevye-igry"
+    },
+    {
+      "Name": "Фигурки и роботы",
+      "PageUrl": "https://www.wildberries.ru/catalog/igrushki/figurki-i-roboty"
+    },
+    {
+      "Name": "Белье и аксессуары",
+      "PageUrl": "https://www.wildberries.ru/catalog/zhenshchinam/bele-i-kupalniki/erotik"
+    },
+    {
+      "Name": "Игры и сувениры",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/tovary-dlya-vzroslyh/igrushki-dlya-vzroslyh"
+    },
+    {
+      "Name": "Интимная косметика",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/intimnaya-kosmetika"
+    },
+    {
+      "Name": "Интимная съедобная косметика",
+      "PageUrl": "https://www.wildberries.ru/catalog/tovary-dlya-vzroslyh/intimnaya-sedobnaya-kosmetika"
+    },
+    {
+      "Name": "Презервативы и лубриканты",
+      "PageUrl": "https://www.wildberries.ru/catalog/krasota/intimnaya-kosmetika/kontratseptivy/prezervativy"
+    },
+    {
+      "Name": "Бусы и шарики",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/tovary-dlya-vzroslyh/analnye-busy"
+    },
+    {
+      "Name": "Вибраторы и стимуляторы",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/tovary-dlya-vzroslyh/vibratory"
+    },
+    {
+      "Name": "Наборы игрушек для взрослых",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/tovary-dlya-vzroslyh/nabory-igrushek-dlya-vzroslyh"
+    },
+    {
+      "Name": "Насадки и удлинители",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/tovary-dlya-vzroslyh/nasadki-dlya-straponov"
+    },
+    {
+      "Name": "Помпы и насосы",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/tovary-dlya-vzroslyh/vauumnye-pompy-erotik"
+    },
+    {
+      "Name": "Секс куклы и мастурбаторы",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/tovary-dlya-vzroslyh/igrushki-dlya-vzroslyh/seks-kukly"
+    },
+    {
+      "Name": "Спринцовки и эрекционные кольца",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/tovary-dlya-vzroslyh/analnye-grushi"
+    },
+    {
+      "Name": "Фаллоимитаторы и страпоны",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/tovary-dlya-vzroslyh/fallomitatory"
+    },
+    {
+      "Name": "Фетиш и БДСМ",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/tovary-dlya-vzroslyh/fetish-i-bdsm"
+    },
+    {
+      "Name": "Бакалея",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/bakaleya"
+    },
+    {
+      "Name": "Алкоголь",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/alkogol"
+    },
+    {
+      "Name": "Чай и кофе",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/chay-i-kofe"
+    },
+    {
+      "Name": "Готовые блюда",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/gotovye-blyuda"
+    },
+    {
+      "Name": "Молочная продукция",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/molochnaya-produktsiya"
+    },
+    {
+      "Name": "Мясная продукция",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/kolbasy"
+    },
+    {
+      "Name": "Замороженная продукция",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/zamorozhennaya-produktsiya"
+    },
+    {
+      "Name": "Напитки",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/napitki"
+    },
+    {
+      "Name": "Рыба и морепродукты",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/ryba-i-moreprodukty"
+    },
+    {
+      "Name": "Сладости и хлебобулочные изделия",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/sladosti-i-hlebobulochnye-izdeliya"
+    },
+    {
+      "Name": "Соусы и специи",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/sousy-i-spetsii"
+    },
+    {
+      "Name": "Фрукты и овощи",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/frukty"
+    },
+    {
+      "Name": "Автомобильные товары",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/avtomobilnye-tovary"
+    },
+    {
+      "Name": "Аксессуары и бижутерия",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/aksessuary"
+    },
+    {
+      "Name": "Зоотовары",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/zootovary"
+    },
+    {
+      "Name": "Книги и канцелярия",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/knigi-i-kantselyariya"
+    },
+    {
+      "Name": "Косметика, гигиена и уход",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/kosmetika-gigiena-i-uhod"
+    },
+    {
+      "Name": "Товары для дома и сада",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/tovary-dlya-doma-i-sada"
+    },
+    {
+      "Name": "Товары для малышей и игрушки",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/tovary-dlya-malyshey-i-igrushki"
+    },
+    {
+      "Name": "Хозяйственные товары",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/bytovaya-himiya"
+    },
+    {
+      "Name": "Электроника",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/elektronika"
+    },
+    {
+      "Name": "Все товары",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit/produkty"
+    },
+    {
+      "Name": "Горячий шоколад и какао",
+      "PageUrl": "https://www.wildberries.ru/catalog/pitanie/chay-kofe/goryachiy-shokolad"
+    },
+    {
+      "Name": "Кофе и цикорий",
+      "PageUrl": "https://www.wildberries.ru/catalog/pitanie/chay-kofe/kofe"
+    },
+    {
+      "Name": "Травяные сборы",
+      "PageUrl": "https://www.wildberries.ru/catalog/pitanie/chay-kofe/travyanye-sbory"
+    },
+    {
+      "Name": "Чай",
+      "PageUrl": "https://www.wildberries.ru/catalog/pitanie/chay-kofe/chay"
+    },
+    {
+      "Name": "Восточные сладости",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/sladosti/vostochnye-sladosti"
+    },
+    {
+      "Name": "Жевательные резинки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/bakaleya/zhevatelnye-rezinki"
+    },
+    {
+      "Name": "Желе, крем-десерты, пудинги",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/sladosti/zhele-krem-deserty-pudingi"
+    },
+    {
+      "Name": "Зефир, мармелад, пастила",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/sladosti/zefir-marmelad-pastila"
+    },
+    {
+      "Name": "Конфеты",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/bakaleya/konfety"
+    },
+    {
+      "Name": "Орехи",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/sladosti/orehi"
+    },
+    {
+      "Name": "Пасты",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/sladosti/pasty"
+    },
+    {
+      "Name": "Торты, печенье, вафли, пряники",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/sladosti/pechene-vafli-pryaniki"
+    },
+    {
+      "Name": "Пироги, сдоба, кексы, рулеты",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/sladosti/pirogi-sdoba-keksy-rulety"
+    },
+    {
+      "Name": "Подарочные наборы продуктов",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-doma/vse-dlya-prazdnika/dlya-prazdnika/podarochnye-sladosti"
+    },
+    {
+      "Name": "Сухари, сушки, крекеры",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/sladosti/suhari-sushki-krekery"
+    },
+    {
+      "Name": "Хлеб, булочки, лепешки",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/sladosti/hleb-bulochki-lepeshki"
+    },
+    {
+      "Name": "Шоколад и шоколадные батончики",
+      "PageUrl": "https://www.wildberries.ru/catalog/pitanie/sladosti/shokolad-i-shokoladnye-batonchiki"
+    },
+    {
+      "Name": "Все для выпечки",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/bakaleya/vse-dlya-vypechki"
+    },
+    {
+      "Name": "Карамель жидкая, сиропы, топпинги",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/bakaleya/karamel-zhidkaya-siropy-toppingi"
+    },
+    {
+      "Name": "Консервация",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/bakaleya/konservatsiya"
+    },
+    {
+      "Name": "Крупы",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/bakaleya/krupy-i-makarony"
+    },
+    {
+      "Name": "Макароны",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/bakaleya/makarony"
+    },
+    {
+      "Name": "Масла, соусы",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/bakaleya/masla-pripravy-sousy"
+    },
+    {
+      "Name": "Мед и прополис",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/bakaleya/med-dzhem-varene"
+    },
+    {
+      "Name": "Орехи, сухофрукты, семечки",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/bakaleya/orehi-suhofrukty-semechki"
+    },
+    {
+      "Name": "Приправы и специи",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/bakaleya/pripravy-i-spetsii"
+    },
+    {
+      "Name": "Продукты быстрого приготовления",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/bakaleya/produkty-bystrogo-prigotovleniya"
+    },
+    {
+      "Name": "Сахар",
+      "PageUrl": "https://www.wildberries.ru/catalog/pitanie/bakaleya/sahar"
+    },
+    {
+      "Name": "Сиропы",
+      "PageUrl": "https://www.wildberries.ru/catalog/pitanie/napitki/siropy"
+    },
+    {
+      "Name": "Соль",
+      "PageUrl": "https://www.wildberries.ru/catalog/pitanie/bakaleya/sol"
+    },
+    {
+      "Name": "Сухие завтраки, мюсли",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/bakaleya/suhie-zavtraki-myusli"
+    },
+    {
+      "Name": "Топпинги",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/bakaleya/toppingi"
+    },
+    {
+      "Name": "Урбеч",
+      "PageUrl": "https://www.wildberries.ru/catalog/pitanie/bakaleya/urbech"
+    },
+    {
+      "Name": "Добавки пищевые",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/dobavki-pishchevye"
+    },
+    {
+      "Name": "Здоровое питание",
+      "PageUrl": "https://www.wildberries.ru/catalog/pitanie/zdorovoe-pitanie"
+    },
+    {
+      "Name": "Молочные продукты и яйца",
+      "PageUrl": "https://www.wildberries.ru/catalog/pitanie/chay-kofe/moloko-i-slivki"
+    },
+    {
+      "Name": "Снеки",
+      "PageUrl": "https://www.wildberries.ru/catalog/pitanie/sneki"
+    },
+    {
+      "Name": "Фрукты и ягоды",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/frukty"
+    },
+    {
+      "Name": "Овощи",
+      "PageUrl": "https://www.wildberries.ru/catalog/produkty/ovoshchi"
+    },
+    {
+      "Name": "Климатическая техника",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tehnika-dlya-doma/uvlazhniteli-i-vozduhootchistiteli"
+    },
+    {
+      "Name": "OneBlade",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/krasota-i-zdorove/oneblade"
+    },
+    {
+      "Name": "Бритвы и триммеры",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/krasota-i-zdorove/britvy-i-trimmery"
+    },
+    {
+      "Name": "Весы напольные",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tehnika-dlya-doma/vesy"
+    },
+    {
+      "Name": "Зубные щетки и ирригаторы",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/zubnye-shchetki"
+    },
+    {
+      "Name": "Косметические аппараты",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/kosmeticheskie-apparaty"
+    },
+    {
+      "Name": "Массажеры электрические",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/krasota-i-zdorove/massazhery-elektricheskie"
+    },
+    {
+      "Name": "Машинки для стрижки волос",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/krasota-i-zdorove/britvy-i-trimmery/mashinki-dlya-strizhki-volos"
+    },
+    {
+      "Name": "Медицинские приборы",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/krasota-i-zdorove/meditsinskie-pribory"
+    },
+    {
+      "Name": "Профессиональная парикмахерская техника",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/krasota-i-zdorove/professionalnaya-parikmaherskaya-tehnika/bytovaya-tehnika"
+    },
+    {
+      "Name": "Фены, приборы для укладки",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/feny-i-pribory-dlya-ukladki"
+    },
+    {
+      "Name": "Эпиляторы",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/krasota-i-zdorove/epilyatory"
+    },
+    {
+      "Name": "Садовая техника",
+      "PageUrl": "https://www.wildberries.ru/catalog/bytovaya-tehnika/sadovaya-tehnika"
+    },
+    {
+      "Name": "Аксессуары для пылесосов",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tehnika-dlya-doma/aksessuary-dlya-pylesosov"
+    },
+    {
+      "Name": "Водонагреватели",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tehnika-dlya-doma/vodonagrevateli"
+    },
+    {
+      "Name": "Обогреватели и вентиляторы",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tehnika-dlya-doma/obogrevateli-i-ventilyatory"
+    },
+    {
+      "Name": "Пульты управления",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tehnika-dlya-doma/pulty-upravleniya"
+    },
+    {
+      "Name": "Пылесосы и пароочистители",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tehnika-dlya-doma/pylesosy-i-parootchistiteli"
+    },
+    {
+      "Name": "Утюги и отпариватели",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tehnika-dlya-doma/utyugi-i-otparivateli"
+    },
+    {
+      "Name": "Уход за вещами",
+      "PageUrl": "https://www.wildberries.ru/catalog/bytovaya-tehnika/tehnika-dlya-doma/uhod-za-veshchami"
+    },
+    {
+      "Name": "Электрические одеяла и грелки",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tehnika-dlya-doma/elektricheskie-odeyala-i-grelki"
+    },
+    {
+      "Name": "Аксессуары для кухонной техники",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tehnika-dlya-kuhni/aksessuary-dlya-kuhonnoy-tehniki"
+    },
+    {
+      "Name": "Вытяжки кухонные",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tehnika-dlya-kuhni/vytyazhki-kuhonnye"
+    },
+    {
+      "Name": "Измельчение и смешивание",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tehnika-dlya-kuhni/izmelchenie-i-smeshivanie"
+    },
+    {
+      "Name": "Кухонные весы",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tehnika-dlya-kuhni/kuhonnye-vesy"
+    },
+    {
+      "Name": "Плиты и варочные панели",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tehnika-dlya-kuhni/plity"
+    },
+    {
+      "Name": "Приготовление блюд",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tehnika-dlya-kuhni/prigotovlenie-blyud"
+    },
+    {
+      "Name": "Приготовление напитков",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tehnika-dlya-kuhni/prigotovlenie-napitkov"
+    },
+    {
+      "Name": "Хранение продуктов",
+      "PageUrl": "https://www.wildberries.ru/catalog/elektronika/tehnika-dlya-kuhni/hranenie"
+    },
+    {
+      "Name": "Крупная бытовая техника",
+      "PageUrl": "https://www.wildberries.ru/catalog/bytovaya-tehnika/krupnaya-bytovaya-tehnika"
+    },
+    {
+      "Name": "Корм и лакомства",
+      "PageUrl": "https://www.wildberries.ru/catalog/tovary-dlya-zhivotnyh/dlya-koshek/korm-i-lakomstva"
+    },
+    {
+      "Name": "Лотки и наполнители",
+      "PageUrl": "https://www.wildberries.ru/catalog/tovary-dlya-zhivotnyh/dlya-koshek/lotki-i-napolniteli"
+    },
+    {
+      "Name": "Амуниция",
+      "PageUrl": "https://www.wildberries.ru/catalog/tovary-dlya-zhivotnyh/dlya-koshek/amunitsiya"
+    },
+    {
+      "Name": "Ветаптека",
+      "PageUrl": "https://www.wildberries.ru/catalog/tovary-dlya-zhivotnyh/vetapteka/dlya-koshek"
+    },
+    {
+      "Name": "Груминг и уход",
+      "PageUrl": "https://www.wildberries.ru/catalog/tovary-dlya-zhivotnyh/dlya-koshek/gruming-i-uhod"
+    },
+    {
+      "Name": "Игрушки и когтеточки",
+      "PageUrl": "https://www.wildberries.ru/catalog/tovary-dlya-zhivotnyh/dlya-koshek/igrushki-i-kogtetochki"
+    },
+    {
+      "Name": "Лежаки и домики",
+      "PageUrl": "https://www.wildberries.ru/catalog/tovary-dlya-zhivotnyh/dlya-koshek/lezhaki-i-domiki"
+    },
+    {
+      "Name": "Транспортировка",
+      "PageUrl": "https://www.wildberries.ru/catalog/tovary-dlya-zhivotnyh/dlya-koshek/transportirovka"
+    },
+    {
+      "Name": "Амуниция для прогулки и дрессировки",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/tovary-dlya-zhivotnyh/amunitsiya"
+    },
+    {
+      "Name": "Вольеры и клетки",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/tovary-dlya-zhivotnyh/volery-i-kletki"
+    },
+    {
+      "Name": "Игрушки",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/tovary-dlya-zhivotnyh/igrushki-dlya-zhivotnyh"
+    },
+    {
+      "Name": "Лежанки, домики",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/tovary-dlya-zhivotnyh/lezhanki-domiki"
+    },
+    {
+      "Name": "Лотки, пеленки",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/tovary-dlya-zhivotnyh/pelenki-tualety"
+    },
+    {
+      "Name": "Для птиц",
+      "PageUrl": "https://www.wildberries.ru/catalog/tovary-dlya-zhivotnyh/dlya-ptits"
+    },
+    {
+      "Name": "Для грызунов и хорьков",
+      "PageUrl": "https://www.wildberries.ru/catalog/tovary-dlya-zhivotnyh/dlya-gruzunov-i-horkov"
+    },
+    {
+      "Name": "Для лошадей",
+      "PageUrl": "https://www.wildberries.ru/catalog/zootovary/dlya-loshadey"
+    },
+    {
+      "Name": "Аквариумы и аквариумные наборы",
+      "PageUrl": "https://www.wildberries.ru/catalog/zootovary/akvariumistika/akvariumy-i-akvariumnye-nabory"
+    },
+    {
+      "Name": "Аксессуары для ухода",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/tovary-dlya-zhivotnyh/akvariumistika/aksessuary-dlya-uhoda"
+    },
+    {
+      "Name": "Декорации, растения",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/tovary-dlya-zhivotnyh/akvariumistika/dekoratsii-i-rasteniya"
+    },
+    {
+      "Name": "Корм и аксессуары для кормления",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/tovary-dlya-zhivotnyh/akvariumistika/korm-dlya-rybok"
+    },
+    {
+      "Name": "Фильтрация, терморегуляция, освещение",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/tovary-dlya-zhivotnyh/akvariumistika/filtratsiya"
+    },
+    {
+      "Name": "Террариумистика",
+      "PageUrl": "https://www.wildberries.ru/catalog/zootovary/terrariumistika"
+    },
+    {
+      "Name": "Фермерство",
+      "PageUrl": "https://www.wildberries.ru/catalog/zootovary/fermerstvo"
+    },
+    {
+      "Name": "Инвентарь",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/fitnes/inventar"
+    },
+    {
+      "Name": "Фитнес",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/fitnes"
+    },
+    {
+      "Name": "Тяжелая атлетика",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/tyazhelaya-atletika"
+    },
+    {
+      "Name": "Тренажеры",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/fitnes/trenazhery"
+    },
+    {
+      "Name": "Велосипеды",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/velosport/velosipedy"
+    },
+    {
+      "Name": "Велозапчасти",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/velosport/komplektuyushchie"
+    },
+    {
+      "Name": "Экипировка",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/velosport/odezhda"
+    },
+    {
+      "Name": "Инструменты, хранение и уход",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/velosport/instrumenty-hranenie-i-uhod"
+    },
+    {
+      "Name": "Аксессуары и инвентарь",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/yoga/aksessuary-i-inventar"
+    },
+    {
+      "Name": "Рыбалка",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/ohota-i-rybolovstvo/rybalka"
+    },
+    {
+      "Name": "Зимняя Рыбалка",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/ohota-i-rybolovstvo/zimnyaya-rybalka"
+    },
+    {
+      "Name": "Охота",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/ohota-i-rybolovstvo/ohota"
+    },
+    {
+      "Name": "Подводная охота",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/ohota-i-rybolovstvo/podvodnaya-ohota"
+    },
+    {
+      "Name": "Самокаты",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/roliki-samokaty/samokaty"
+    },
+    {
+      "Name": "Роликовые коньки",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/roliki-samokaty/roliki"
+    },
+    {
+      "Name": "Скейтборды",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/skeytbording"
+    },
+    {
+      "Name": "Защита",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/roliki-samokaty/zashchita"
+    },
+    {
+      "Name": "Запчасти",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/roliki-samokaty-skeytbordy/roliki/zapchasti"
+    },
+    {
+      "Name": "Кемпинговая мебель",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/turizm-kemping/snaryazhenie/turisticheskaya-mebel"
+    },
+    {
+      "Name": "Палатки, шатры, тенты",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/turizm-kemping/snaryazhenie/palatki-tenty"
+    },
+    {
+      "Name": "Походная кухня",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/turizm/pohody/pohodnaya-kuhnya"
+    },
+    {
+      "Name": "Рюкзаки, сумки и баулы",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/turizm/pohody/ryukzaki-sumki-i-bauly"
+    },
+    {
+      "Name": "Туристические аксессуары",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/turizm-kemping/aksessuary"
+    },
+    {
+      "Name": "Спальные мешки, коврики, матрасы",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/turizm-kemping/snaryazhenie/spalnye-meshki-matrasy/kovriki-turisticheskie"
+    },
+    {
+      "Name": "Электроника и навигация",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/turizm/pohody/elektronika-i-navigatsiya"
+    },
+    {
+      "Name": "Бег",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/beg"
+    },
+    {
+      "Name": "Ходьба",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/skandinavskaya-hodba"
+    },
+    {
+      "Name": "Баскетбол",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/basketbol"
+    },
+    {
+      "Name": "Бейсбол",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/sportivniy-inventar-i-aksessuary/beysbol"
+    },
+    {
+      "Name": "Волейбол",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/voleybol"
+    },
+    {
+      "Name": "Гандбол",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/gandbol"
+    },
+    {
+      "Name": "Регби",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/regbi"
+    },
+    {
+      "Name": "Мини-футбол",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/komandnye-vidy-sporta/mini-futbol"
+    },
+    {
+      "Name": "Футбол",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/futbol"
+    },
+    {
+      "Name": "Хоккей",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/hokkey"
+    },
+    {
+      "Name": "Клубная атрибутика",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/klubnaya-atributika"
+    },
+    {
+      "Name": "Гидрокостюмы",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/sportivniy-inventar-i-aksessuary/plavanie-i-snorkeling/gidroodezhda"
+    },
+    {
+      "Name": "Очки и маски для плавания",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/plavanie/ochki-i-maski-dlya-plavaniya"
+    },
+    {
+      "Name": "Плавки и шорты для плавания",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/plavanie/plavki-i-shorty-dlya-plavaniya"
+    },
+    {
+      "Name": "Серфинг",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/serfing"
+    },
+    {
+      "Name": "Шапочки для плавания",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/plavanie/aksessuary/shapochki-dlya-plavaniya"
+    },
+    {
+      "Name": "Беговые лыжи",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/zimnie-vidy-sporta/begovye-lyzhi"
+    },
+    {
+      "Name": "Горные лыжи",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/zimnie-vidy-sporta/gornye-lyzhi"
+    },
+    {
+      "Name": "Сноуборд",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/snoubording-snouskeyting"
+    },
+    {
+      "Name": "Фигурное катание",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/figurnoe-katanie"
+    },
+    {
+      "Name": "Массажные аксессуары",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/podderzhka-i-vosstanovlenie/massazhnye-aksessuary"
+    },
+    {
+      "Name": "Питание и красота",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/sportivnoe-pitanie-i-kosmetika/pitanie-i-krasota"
+    },
+    {
+      "Name": "Профессиональное питание",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/sportivnoe-pitanie-i-kosmetika/professionalnoe-pitanie"
+    },
+    {
+      "Name": "Бадминтон",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/badminton"
+    },
+    {
+      "Name": "Большой теннис",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/tennis/inventar/bolshoy-tennis"
+    },
+    {
+      "Name": "Настольный теннис",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/tennis/inventar/nastolniy-tennis"
+    },
+    {
+      "Name": "Бильярд/Гольф/Дартс/Метание ножей",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/bilyard/darts"
+    },
+    {
+      "Name": "Бокс и кикбоксинг",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/edinoborstva/boks"
+    },
+    {
+      "Name": "Бразильское джиу-джитсу",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/edinoborstva/brazilskoe-dzhiu-dzhitsu"
+    },
+    {
+      "Name": "ММА",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/edinoborstva/mma"
+    },
+    {
+      "Name": "Борьба",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/edinoborstva/borba"
+    },
+    {
+      "Name": "Греплинг",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/edinoborstva/grepling"
+    },
+    {
+      "Name": "Дзюдо",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/edinoborstva/dzyudo"
+    },
+    {
+      "Name": "Тренировочный инвентарь",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/edinoborstva/inventar"
+    },
+    {
+      "Name": "Карате и Кудо",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/edinoborstva/karate-i-kudo"
+    },
+    {
+      "Name": "Рукопашный бой",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/edinoborstva/rukopashniy-boy"
+    },
+    {
+      "Name": "Самбо",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/edinoborstva/sambo"
+    },
+    {
+      "Name": "Тайский бокс",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/edinoborstva/tayskiy-boks"
+    },
+    {
+      "Name": "Тхэквондо",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/edinoborstva/thekvondo"
+    },
+    {
+      "Name": "Конный спорт",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/konniy-sport"
+    },
+    {
+      "Name": "Мотоспорт",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/motosport"
+    },
+    {
+      "Name": "Парусный спорт",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/parusnyisport"
+    },
+    {
+      "Name": "Скалолазание/Альпинизм",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/skalolazanie/alpinizm"
+    },
+    {
+      "Name": "Тактическая одежда",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/straykbol-i-peyntbol/takticheskaya-odezhda"
+    },
+    {
+      "Name": "Шары для пейнтбола",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/straykbol-i-peyntbol/shary-dlya-peyntbola"
+    },
+    {
+      "Name": "Пули для пневматики",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/straykbol-i-peyntbol/puli-dlya-pnevmatiki"
+    },
+    {
+      "Name": "Гимнастика",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/fitnes/gimnastika"
+    },
+    {
+      "Name": "Танцы",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/tantsy-gimnastika"
+    },
+    {
+      "Name": "Ватрушки, ледянки",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/vidy-sporta/vatrushki-ledyanki"
+    },
+    {
+      "Name": "Спортивная обувь",
+      "PageUrl": "https://www.wildberries.ru/catalog/sport/sportivnaya-obuv"
+    },
+    {
+      "Name": "Масла и жидкости",
+      "PageUrl": "https://www.wildberries.ru/catalog/avtotovary/masla-i-zhidkosti"
+    },
+    {
+      "Name": "Автокосметика и автохимия",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/avtotovary/uhod-za-avtomobilem"
+    },
+    {
+      "Name": "Автоаксессуары и дополнительное оборудование",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/avtotovary/avtoaksessuary-i-dopolnitelnoe-oborudovanie"
+    },
+    {
+      "Name": "Шины",
+      "PageUrl": "https://www.wildberries.ru/catalog/avtotovary/shiny-i-diski/shiny"
+    },
+    {
+      "Name": "Диски",
+      "PageUrl": "https://www.wildberries.ru/catalog/avtotovary/shiny-i-diski/diski"
+    },
+    {
+      "Name": "Инструменты",
+      "PageUrl": "https://www.wildberries.ru/catalog/avtotovary/instrumenty"
+    },
+    {
+      "Name": "Мойки высокого давления и аксессуары",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/moyki-vysokogo-davleniya-i-aksessuary"
+    },
+    {
+      "Name": "Мототовары",
+      "PageUrl": "https://www.wildberries.ru/catalog/avtotovary/mototovary"
+    },
+    {
+      "Name": "Воспитание и педагогика",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/detyam-i-roditelyam/vospitanie-i-pedagogika"
+    },
+    {
+      "Name": "Детективы",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/detyam-i-roditelyam/detektivy"
+    },
+    {
+      "Name": "Детская психология",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/detyam-i-roditelyam/detskaya-psihologiya"
+    },
+    {
+      "Name": "Детское творчество и досуг",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/detyam-i-roditelyam/detskoe-tvorchestvo-i-dosug"
+    },
+    {
+      "Name": "Дополненная реальность",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/dopolnennaya-realnost"
+    },
+    {
+      "Name": "Животные и природа",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/zhivotnye-i-priroda"
+    },
+    {
+      "Name": "Книги для подростков",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/detyam-i-roditelyam/podrostkovaya-literatura"
+    },
+    {
+      "Name": "Новый год и Рождество",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/detyam-i-roditelyam/noviy-god-i-rozhdestvo"
+    },
+    {
+      "Name": "Обучение письму",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/detyam-i-roditelyam/obuchenie-pismu"
+    },
+    {
+      "Name": "Обучение счету",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/detyam-i-roditelyam/obuchenie-schetu"
+    },
+    {
+      "Name": "Обучение чтению",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/detyam-i-roditelyam/obuchenie-chteniyu"
+    },
+    {
+      "Name": "Познавательная литература",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/detyam-i-roditelyam/poznavatelnaya-literatura"
+    },
+    {
+      "Name": "Поэзия",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/detyam-i-roditelyam/poeziya"
+    },
+    {
+      "Name": "Приключенческая литература",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/detyam-i-roditelyam/priklyuchencheskaya-literatura"
+    },
+    {
+      "Name": "Проза",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/detyam-i-roditelyam/proza"
+    },
+    {
+      "Name": "Развитие ребенка",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/detyam-i-roditelyam/razvitie-rebenka"
+    },
+    {
+      "Name": "Раскраски",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/detskaya-literatura/detskiy-dosug/raskraski-i-risovanie/raskraski"
+    },
+    {
+      "Name": "Сказки и истории",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/detyam-i-roditelyam/skazki-i-istorii"
+    },
+    {
+      "Name": "Фантастика и фэнтези",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/detyam-i-roditelyam/fantastika-i-fentezi"
+    },
+    {
+      "Name": "Учебная литература",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/uchebnaya-literatura"
+    },
+    {
+      "Name": "Энциклопедии",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/entsiklopedii"
+    },
+    {
+      "Name": "Астрология и эзотерика",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/astrologiya-i-ezoterika"
+    },
+    {
+      "Name": "Бизнес и менеджмент",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/biznes-i-menedzhment"
+    },
+    {
+      "Name": "Биографии и мемуары",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/biografii-i-memuary"
+    },
+    {
+      "Name": "Вождение и транспорт",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/vozhdenie-i-transport"
+    },
+    {
+      "Name": "Домашние животные и ветеринария",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/domashnie-zhivotnye-i-veterinariya"
+    },
+    {
+      "Name": "Домоводство",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/domovodstvo"
+    },
+    {
+      "Name": "Здоровье и медицина",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/zdorove-i-meditsina"
+    },
+    {
+      "Name": "Изучение иностранных языков",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/izuchenie-inostrannyh-yazykov"
+    },
+    {
+      "Name": "Интернет и технологии",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/internet-i-tehnologii"
+    },
+    {
+      "Name": "Искусство и культура",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/iskusstvo-i-kultura"
+    },
+    {
+      "Name": "Историческая и военная литература",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/istoricheskaya-i-voennaya-literatura"
+    },
+    {
+      "Name": "Красота, косметика и макияж",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/krasota-kosmetika-i-makiyazh"
+    },
+    {
+      "Name": "Кулинария",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/kulinariya"
+    },
+    {
+      "Name": "Литературоведение и критика",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/literaturovedenie-i-kritika"
+    },
+    {
+      "Name": "Мода и стиль",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/moda-i-stil"
+    },
+    {
+      "Name": "Научно-популярная литература",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/nauka-i-tehnika"
+    },
+    {
+      "Name": "Охота и рыболовство",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/ohota-i-rybolovstvo"
+    },
+    {
+      "Name": "Политика",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/politika"
+    },
+    {
+      "Name": "Психология",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/psihologiya"
+    },
+    {
+      "Name": "Публицистика",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/publitsistika"
+    },
+    {
+      "Name": "Религия",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/religiya"
+    },
+    {
+      "Name": "Ремонт, дизайн жилья",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/remont-dizayn-zhilya"
+    },
+    {
+      "Name": "Рисование",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/risovanie"
+    },
+    {
+      "Name": "Рукоделие и досуг",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/rukodelie-i-dosug"
+    },
+    {
+      "Name": "Сад и огород",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/sad-i-ogorod"
+    },
+    {
+      "Name": "Саморазвитие",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/samorazvitie"
+    },
+    {
+      "Name": "Спорт и образ жизни",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/sport-i-obraz-zhizni"
+    },
+    {
+      "Name": "Туризм и страноведение",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/turizm-i-stranovedenie"
+    },
+    {
+      "Name": "Философия",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/filosofiya"
+    },
+    {
+      "Name": "Эротика",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/erotika"
+    },
+    {
+      "Name": "Афоризмы, фольклор и мифы",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/hudozhestvennaya-literatura/aforizmy-folklor-mify"
+    },
+    {
+      "Name": "Исторические романы",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/hudozhestvennaya-literatura/istoricheskie-romany"
+    },
+    {
+      "Name": "Книги на иностранных языках",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/hudozhestvennaya-literatura/knigi-na-inostrannyh-yazykah"
+    },
+    {
+      "Name": "Комиксы и манга",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/hudozhestvennaya-literatura/komiksy-i-manga"
+    },
+    {
+      "Name": "Любовные романы",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/hudozhestvennaya-literatura/lyubovnye-romany"
+    },
+    {
+      "Name": "Триллеры",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/nehudozhestvennaya-literatura/trillery"
+    },
+    {
+      "Name": "Юмор и сатира",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/hudozhestvennaya-literatura/yumor-i-satira"
+    },
+    {
+      "Name": "Журналы",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/zhurnaly"
+    },
+    {
+      "Name": "Книги родословные",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/knigi-rodoslovnye"
+    },
+    {
+      "Name": "Коллекционные издания",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/kollektsionnye-izdaniya"
+    },
+    {
+      "Name": "Букинистика",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/bukinistika"
+    },
+    {
+      "Name": "Блокноты творческие",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi-i-diski/kantstovary/bloknoty-tvorcheskie"
+    },
+    {
+      "Name": "Мультимедиа",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi-i-diski/multimedia"
+    },
+    {
+      "Name": "Аудиокниги",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/audioknigi"
+    },
+    {
+      "Name": "Иностранные книги",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi/inostrannye-knigi"
+    },
+    {
+      "Name": "Кольца",
+      "PageUrl": "https://www.wildberries.ru/catalog/yuvelirnye-ukrasheniya/koltsa"
+    },
+    {
+      "Name": "Серьги",
+      "PageUrl": "https://www.wildberries.ru/catalog/yuvelirnye-ukrasheniya/sergi"
+    },
+    {
+      "Name": "Браслеты",
+      "PageUrl": "https://www.wildberries.ru/catalog/yuvelirnye-ukrasheniya/braslety"
+    },
+    {
+      "Name": "Подвески и шармы",
+      "PageUrl": "https://www.wildberries.ru/catalog/yuvelirnye-izdeliya/podveski-i-sharmy"
+    },
+    {
+      "Name": "Комплекты",
+      "PageUrl": "https://www.wildberries.ru/catalog/yuvelirnye-izdeliya/komplekty"
+    },
+    {
+      "Name": "Колье, цепи, шнурки",
+      "PageUrl": "https://www.wildberries.ru/catalog/yuvelirnye-izdeliya/tsepi-i-shnurki"
+    },
+    {
+      "Name": "Броши",
+      "PageUrl": "https://www.wildberries.ru/catalog/yuvelirnye-ukrasheniya/broshi"
+    },
+    {
+      "Name": "Пирсинг",
+      "PageUrl": "https://www.wildberries.ru/catalog/yuvelirnye-ukrasheniya/pirsing"
+    },
+    {
+      "Name": "Зажимы, запонки, ремни",
+      "PageUrl": "https://www.wildberries.ru/catalog/yuvelirnye-izdeliya/zazhimy-i-zaponki"
+    },
+    {
+      "Name": "Четки",
+      "PageUrl": "https://www.wildberries.ru/catalog/yuvelirnye-ukrasheniya/chetki"
+    },
+    {
+      "Name": "Сувениры и столовое серебро",
+      "PageUrl": "https://www.wildberries.ru/catalog/yuvelirnye-izdeliya/suveniry-i-stolovoe-serebro"
+    },
+    {
+      "Name": "Украшения из золота",
+      "PageUrl": "https://www.wildberries.ru/catalog/yuvelirnye-ukrasheniya/zoloto"
+    },
+    {
+      "Name": "Украшения из серебра",
+      "PageUrl": "https://www.wildberries.ru/catalog/yuvelirnye-ukrasheniya/serebro"
+    },
+    {
+      "Name": "Украшения из керамики",
+      "PageUrl": "https://www.wildberries.ru/catalog/yuvelirnye-ukrasheniya/ukrasheniya-iz-keramiki"
+    },
+    {
+      "Name": "Аксессуары для украшений",
+      "PageUrl": "https://www.wildberries.ru/catalog/yuvelirnye-izdeliya/aksessuary-dlya-ukrasheniy"
+    },
+    {
+      "Name": "Двери и фурнитура",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/dveri-okna-i-furnitura/dveri-i-furnitura"
+    },
+    {
+      "Name": "Окна и фурнитура",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/dveri-okna-i-furnitura/okna-i-furnitura"
+    },
+    {
+      "Name": "Зажимные инструменты",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/tovary-dlya-remonta/instrumenty/zazhimnye-instrumenty"
+    },
+    {
+      "Name": "Магнитные инструменты",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/tovary-dlya-remonta/instrumenty/magnitnye-instrumenty"
+    },
+    {
+      "Name": "Малярные инструменты",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/tovary-dlya-remonta/instrumenty/malyarnye-instrumenty"
+    },
+    {
+      "Name": "Монтажные инструменты",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/tovary-dlya-remonta/instrumenty/montazhnye-instrumenty"
+    },
+    {
+      "Name": "Наборы инструментов",
+      "PageUrl": "https://www.wildberries.ru/catalog/tovary-dlya-remonta/instrumenty/nabory-instrumentov"
+    },
+    {
+      "Name": "Оснастка инструмента",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/tovary-dlya-remonta/osnastka-instrumenta"
+    },
+    {
+      "Name": "Сверление, долбление, закручивание",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/instrumenty-i-osnastka/sverlenie-dolblenie-zakruchivanie"
+    },
+    {
+      "Name": "Измерительные приборы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/instrumenty-i-osnastka/izmeritelnye-pribory"
+    },
+    {
+      "Name": "Лестницы и высотные конструкции",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/instrumenty-i-osnastka/lestnitsy-i-vysotnye-konstruktsii"
+    },
+    {
+      "Name": "Оборудование",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/instrumenty-i-osnastka/oborudovanie"
+    },
+    {
+      "Name": "Паяльно-термические инструменты",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/instrumenty-i-osnastka/payalno-termicheskie-instrumenty"
+    },
+    {
+      "Name": "Хранение и переноска инструмента",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/instrumenty-i-osnastka/hranenie-i-perenoska-instrumenta"
+    },
+    {
+      "Name": "Пильно-отрезные инструменты",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/instrumenty-i-osnastka/pilno-otreznye-instrumenty"
+    },
+    {
+      "Name": "Шлифовальные инструменты",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/instrumenty-i-osnastka/shlifovalnye-instrumenty"
+    },
+    {
+      "Name": "Средства индивидуальной защиты и экипировка",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/instrumenty-i-osnastka/sredstva-individualnoy-zashchity-i-ekipirovka"
+    },
+    {
+      "Name": "Штукатурные инструменты",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/instrumenty-i-osnastka/shtukaturnye-instrumenty"
+    },
+    {
+      "Name": "Стеновые панели",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/otdelochnye-materialy/stenovye-paneli"
+    },
+    {
+      "Name": "Обои",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/otdelochnye-materialy/oboi"
+    },
+    {
+      "Name": "Потолочные покрытия",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/otdelochnye-materialy/potolochnye-pokrytiya"
+    },
+    {
+      "Name": "Пленки самоклеющиеся",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/otdelochnye-materialy/plenki-samokleyushchiesya"
+    },
+    {
+      "Name": "Декоративные элементы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/otdelochnye-materialy/dekorativnye-elementy"
+    },
+    {
+      "Name": "Напольные покрытия",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/otdelochnye-materialy/napolnye-pokrytiya"
+    },
+    {
+      "Name": "Плитка",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/otdelochnye-materialy/plitka"
+    },
+    {
+      "Name": "Розетки и выключатели",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/elektrika/rozetki-i-vyklyuchateli"
+    },
+    {
+      "Name": "Автоматы, щиты и счетчики",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/elektrika/avtomaty-shchity-i-schetchiki"
+    },
+    {
+      "Name": "Электромонтаж и проводка",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/elektrika/elektromontazh-i-provodka"
+    },
+    {
+      "Name": "Удлинители и сетевые разъемы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/elektrika/udliniteli-i-setevye-razemy"
+    },
+    {
+      "Name": "Кабели и провода",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/elektrika/kabeli-i-provoda"
+    },
+    {
+      "Name": "Эмали и краски",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/lakokrasochnye-materialy/emali-i-kraski"
+    },
+    {
+      "Name": "Колеровочные краски",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/lakokrasochnye-materialy/kolerovochnye-kraski"
+    },
+    {
+      "Name": "Аэрозоли",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/lakokrasochnye-materialy/aerozoli"
+    },
+    {
+      "Name": "Грунтовки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/lakokrasochnye-materialy/gruntovki"
+    },
+    {
+      "Name": "Герметики",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/lakokrasochnye-materialy/germetiki"
+    },
+    {
+      "Name": "Лаки и пропитки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/lakokrasochnye-materialy/laki-i-propitki"
+    },
+    {
+      "Name": "Клеи",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/lakokrasochnye-materialy/klei"
+    },
+    {
+      "Name": "Пены монтажные",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/lakokrasochnye-materialy/peny-montazhnye"
+    },
+    {
+      "Name": "Очистители",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/lakokrasochnye-materialy/ochistiteli"
+    },
+    {
+      "Name": "Растворители",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/lakokrasochnye-materialy/rastvoriteli"
+    },
+    {
+      "Name": "Ванны",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/santehnika-otoplenie-i-gazosnabzhenie/vanny"
+    },
+    {
+      "Name": "Газоснабжение",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/santehnika-otoplenie-i-gazosnabzhenie/gazosnabzhenie"
+    },
+    {
+      "Name": "Душевые кабины и ограждения",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/santehnika-otoplenie-i-gazosnabzhenie/dushevye-kabiny-i-ograzhdeniya"
+    },
+    {
+      "Name": "Полотенцесушители",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/santehnika-otoplenie-i-gazosnabzhenie/polotentsesushiteli"
+    },
+    {
+      "Name": "Раковины, пьедесталы и мойки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/santehnika-otoplenie-i-gazosnabzhenie/rakoviny-pedestaly-i-moyki"
+    },
+    {
+      "Name": "Унитазы, биде, писсуары и инсталляции",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/santehnika-otoplenie-i-gazosnabzhenie/unitazy-bide-pissuary-i-installyatsii"
+    },
+    {
+      "Name": "Сифоны и сливная арматура",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/santehnika-otoplenie-i-gazosnabzhenie/sifony-i-slivnaya-armatura"
+    },
+    {
+      "Name": "Смесители и душевое оборудование",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/santehnika-otoplenie-i-gazosnabzhenie/smesiteli-i-dushevoe-oborudovanie"
+    },
+    {
+      "Name": "Мебель для ванной",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/santehnika-otoplenie-i-gazosnabzhenie/mebel-dlya-vannoy"
+    },
+    {
+      "Name": "Водоснабжение",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/santehnika-otoplenie-i-gazosnabzhenie/vodosnabzhenie"
+    },
+    {
+      "Name": "Мембраны, манжеты и прокладки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/santehnika-otoplenie-i-gazosnabzhenie/membrany-manzhety-i-prokladki"
+    },
+    {
+      "Name": "Отопление",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/santehnika-otoplenie-i-gazosnabzhenie/otoplenie"
+    },
+    {
+      "Name": "Счетчики",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/santehnika-otoplenie-i-gazosnabzhenie/schetchiki"
+    },
+    {
+      "Name": "Фильтрация воды",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/santehnika-otoplenie-i-gazosnabzhenie/filtratsiya-vody"
+    },
+    {
+      "Name": "Канализация",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/santehnika-otoplenie-i-gazosnabzhenie/kanalizatsiya"
+    },
+    {
+      "Name": "Вентиляция",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/ventilyatsiya"
+    },
+    {
+      "Name": "Анкера",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/krepezh/ankera"
+    },
+    {
+      "Name": "Гвозди",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/krepezh/gvozdi"
+    },
+    {
+      "Name": "Дюбели",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/krepezh/dyubeli"
+    },
+    {
+      "Name": "Заклепки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/krepezh/zaklepki"
+    },
+    {
+      "Name": "Крепеж для деревянных конструкций",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/krepezh/krepezh-dlya-derevyannyh-konstruktsiy"
+    },
+    {
+      "Name": "Мебельная фурнитура",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/krepezh/mebelnaya-furnitura"
+    },
+    {
+      "Name": "Метрический крепеж",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/krepezh/metricheskiy-krepezh"
+    },
+    {
+      "Name": "Настенные кронштейны",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/krepezh/nastennye-kronshteyny"
+    },
+    {
+      "Name": "Саморезы и шурупы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/krepezh/samorezy-i-shurupy"
+    },
+    {
+      "Name": "Держатели и крепления",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/krepezh/derzhateli-i-krepleniya"
+    },
+    {
+      "Name": "Такелаж",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/krepezh/takelazh"
+    },
+    {
+      "Name": "Листовые строительные материалы и профили",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/stroymaterialy/listovye-stroitelnye-materialy-i-profili"
+    },
+    {
+      "Name": "Пиломатериалы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/stroymaterialy/pilomaterialy"
+    },
+    {
+      "Name": "Кровля",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/stroymaterialy/krovlya"
+    },
+    {
+      "Name": "Поликарбонат",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/stroymaterialy/polikarbonat"
+    },
+    {
+      "Name": "Строительные сетки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/stroymaterialy/stroitelnye-setki"
+    },
+    {
+      "Name": "Заборы и ограждения",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/stroymaterialy/zabory-i-ograzhdeniya"
+    },
+    {
+      "Name": "Металлопрокат",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/stroymaterialy/metalloprokat"
+    },
+    {
+      "Name": "Отделка фасада",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/stroymaterialy/otdelka-fasada"
+    },
+    {
+      "Name": "Изоляционные материалы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/stroymaterialy/izolyatsionnye-materialy"
+    },
+    {
+      "Name": "Формы для заливки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/stroymaterialy/formy-dlya-zalivki"
+    },
+    {
+      "Name": "Возведение стен",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/stroymaterialy/vozvedenie-sten"
+    },
+    {
+      "Name": "Строительные смеси",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/stroymaterialy/stroitelnye-smesi"
+    },
+    {
+      "Name": "Сборные конструкции",
+      "PageUrl": "https://www.wildberries.ru/catalog/dlya-remonta/sbornye-konstruktsii"
+    },
+    {
+      "Name": "Аксессуары для бассейнов",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/basseyny/aksessuary-dlya-basseynov"
+    },
+    {
+      "Name": "Каркасные бассейны",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/basseyny/karkasnye-basseyny"
+    },
+    {
+      "Name": "Надувные бассейны",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/basseyny/naduvnye-basseyny"
+    },
+    {
+      "Name": "Надувные изделия и аксессуары для плавания",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/basseyny/naduvnye-izdeliya-i-aksessuary-dlya-plavaniya"
+    },
+    {
+      "Name": "Уход за бассейном",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/basseyny/uhod-za-basseynom"
+    },
+    {
+      "Name": "Балконные ящики для цветов и держатели",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/gorshki-opory-i-vse-dlya-rassady/balkonnye-yashchiki-dlya-tsvetov-i-derzhateli"
+    },
+    {
+      "Name": "Все для рассады",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/gorshki-opory-i-vse-dlya-rassady/vse-dlya-rassady"
+    },
+    {
+      "Name": "Горшки для цветов и поддоны",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/gorshki-opory-i-vse-dlya-rassady/gorshki-dlya-tsvetov-i-poddony"
+    },
+    {
+      "Name": "Кашпо и вазоны",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/gorshki-opory-i-vse-dlya-rassady/kashpo-i-vazony"
+    },
+    {
+      "Name": "Опоры, поставки и крепления для растений",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/gorshki-opory-i-vse-dlya-rassady/opory-postavki-i-krepleniya-dlya-rasteniy"
+    },
+    {
+      "Name": "Грили газовые и аксессуары к ним",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/grili-mangaly-i-barbekyu/grili-gazovye-i-aksessuary-k-nim"
+    },
+    {
+      "Name": "Грили угольные",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/grili-mangaly-i-barbekyu/grili-ugolnye"
+    },
+    {
+      "Name": "Коптильни и средства для копчения",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/grili-mangaly-i-barbekyu/koptilni-i-sredstva-dlya-kopcheniya"
+    },
+    {
+      "Name": "Мангалы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/grili-mangaly-i-barbekyu/mangaly"
+    },
+    {
+      "Name": "Очаги, чаши и печи для казана",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/grili-mangaly-i-barbekyu/ochagi-chashi-i-pechi-dlya-kazana"
+    },
+    {
+      "Name": "Решетки и аксессуары для гриля и мангала",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/grili-mangaly-i-barbekyu/reshetki-i-aksessuary-dlya-grilya-i-mangala"
+    },
+    {
+      "Name": "Тандыры и аксессуары к ним",
+      "PageUrl": "https://www.wildberries.ru/catalog/sad-i-dacha/grili-mangaly-i-barbekyu/tandyry-i-aksessuary-k-nim"
+    },
+    {
+      "Name": "Газовые плитки, горелки и нагреватели",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/grili-mangaly-i-barbekyu/gazovye-plitki-gorelki-i-nagrevateli"
+    },
+    {
+      "Name": "Уголь, дрова и средства для розжига",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/grili-mangaly-i-barbekyu/ugol-drova-i-sredstva-dlya-rozzhiga"
+    },
+    {
+      "Name": "Шампуры",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/grili-mangaly-i-barbekyu/shampury"
+    },
+    {
+      "Name": "Биотуалеты и аксессуары",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/dachnye-umyvalniki-dushi-i-tualety/biotualety-i-aksessuary"
+    },
+    {
+      "Name": "Дачные туалеты",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/dachnye-umyvalniki-dushi-i-tualety/dachnye-tualety"
+    },
+    {
+      "Name": "Души дачные",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/dachnye-umyvalniki-dushi-i-tualety/dushi-dachnye"
+    },
+    {
+      "Name": "Септики и средства для них",
+      "PageUrl": "https://www.wildberries.ru/catalog/sad-i-dacha/dachnye-umyvalniki-dushi-i-tualety/septiki-i-sredstva-dlya-nih"
+    },
+    {
+      "Name": "Умывальники и рукомойники",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/dachnye-umyvalniki-dushi-i-tualety/umyvalniki-i-rukomoyniki"
+    },
+    {
+      "Name": "Аксессуары для моек высокого давления",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/moyki-vysokogo-davleniya-i-aksessuary/aksessuary-dlya-moek-vysokogo-davleniya"
+    },
+    {
+      "Name": "Мойки высокого давления",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/moyki-vysokogo-davleniya-i-aksessuary/moyki-vysokogo-davleniya"
+    },
+    {
+      "Name": "Аксессуары для насосов и станций",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/poliv-i-vodosnabzhenie/aksessuary-dlya-nasosov-i-stantsiy"
+    },
+    {
+      "Name": "Катушки и тележки для шлангов",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/poliv-i-vodosnabzhenie/katushki-i-telezhki-dlya-shlangov"
+    },
+    {
+      "Name": "Коннекторы и фиттинги для шлангов",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/poliv-i-vodosnabzhenie/konnektory-i-fittingi-dlya-shlangov"
+    },
+    {
+      "Name": "Насосы и помпы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/poliv-i-vodosnabzhenie/nasosy-i-pompy"
+    },
+    {
+      "Name": "Лейки и опрыскиватели",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/poliv-i-vodosnabzhenie/leyki-i-opryskivateli"
+    },
+    {
+      "Name": "Дождеватели и разбрызгиватели",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/poliv-i-vodosnabzhenie/dozhdevateli-i-razbryzgivateli"
+    },
+    {
+      "Name": "Пистолеты и наконечники для полива",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/poliv-i-vodosnabzhenie/pistolety-i-nakonechniki-dlya-poliva"
+    },
+    {
+      "Name": "Садовые емкости для воды",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/poliv-i-vodosnabzhenie/sadovye-emkosti-dlya-vody"
+    },
+    {
+      "Name": "Устройства для автополива и аксессуары",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/poliv-i-vodosnabzhenie/ustroystva-dlya-avtopoliva-i-aksessuary"
+    },
+    {
+      "Name": "Шланги садовые",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/poliv-i-vodosnabzhenie/shlangi-sadovye"
+    },
+    {
+      "Name": "Колонки для воды",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/poliv-i-vodosnabzhenie/kolonki-dlya-vody"
+    },
+    {
+      "Name": "Грунты для растений",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/rasteniya-semena-i-grunty/grunty-dlya-rasteniy"
+    },
+    {
+      "Name": "Живые растения",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/rasteniya-semena-i-grunty/zhivye-rasteniya"
+    },
+    {
+      "Name": "Корни, клубни, луковицы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/sad-i-dacha/rasteniya-semena-i-grunty/korni-klubni-lukovitsy"
+    },
+    {
+      "Name": "Мох стабилизированный",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/rasteniya-semena-i-grunty/moh-stabilizirovanniy"
+    },
+    {
+      "Name": "Семена",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/rasteniya-semena-i-grunty/semena"
+    },
+    {
+      "Name": "Зонты, шатры и тенты",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadovaya-mebel/zonty-shatry-i-tenty"
+    },
+    {
+      "Name": "Садовые качели и гамаки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadovaya-mebel/sadovye-kacheli-i-gamaki"
+    },
+    {
+      "Name": "Лежаки и шезлонги",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadovaya-mebel/lezhaki-i-shezlongi"
+    },
+    {
+      "Name": "Комплекты садовой мебели",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadovaya-mebel/komplekty-sadovoy-mebeli"
+    },
+    {
+      "Name": "Садовые скамейки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadovaya-mebel/sadovye-skameyki"
+    },
+    {
+      "Name": "Садовые табуреты",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadovaya-mebel/sadovye-taburety"
+    },
+    {
+      "Name": "Садовые шкафы и сундуки",
+      "PageUrl": "https://www.wildberries.ru/catalog/sad-i-dacha/sadovaya-mebel/sadovye-shkafy-i-sunduki"
+    },
+    {
+      "Name": "Чехлы для садовой мебели",
+      "PageUrl": "https://www.wildberries.ru/catalog/sad-i-dacha/sadovaya-mebel/chehly-dlya-sadovoy-mebeli"
+    },
+    {
+      "Name": "Аксессуары и запчасти для садовой техники",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadovaya-tehnika/aksessuary-i-zapchasti-dlya-sadovoy-tehniki"
+    },
+    {
+      "Name": "Аэраторы газонные",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadovaya-tehnika/aeratory-gazonnye"
+    },
+    {
+      "Name": "Электрические кусторезы и секаторы",
+      "PageUrl": "https://www.wildberries.ru/catalog/sad-i-dacha/sadovaya-tehnika/akkumulyatornye-suchkorezy-i-sekatory"
+    },
+    {
+      "Name": "Дровоколы электрические",
+      "PageUrl": "https://www.wildberries.ru/catalog/sad-i-dacha/sadovaya-tehnika/drovokoly-elektricheskie"
+    },
+    {
+      "Name": "Газонокосилки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadovaya-tehnika/gazonokosilki"
+    },
+    {
+      "Name": "Техника для фермерских хозяйств",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadovaya-tehnika/tehnika-dlya-fermerskih-hozyaystv"
+    },
+    {
+      "Name": "Культиваторы и мотоблоки",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadovaya-tehnika/kultivatory-i-motobloki"
+    },
+    {
+      "Name": "Ножницы садовые электрические и аккумуляторные",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadovaya-tehnika/nozhnitsy-sadovye-elektricheskie-i-akkumulyatornye"
+    },
+    {
+      "Name": "Мотобуры и аксессуары к ним",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadovaya-tehnika/motobury-i-aksessuary-k-nim"
+    },
+    {
+      "Name": "Садовые измельчители",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadovaya-tehnika/sadovye-izmelchiteli"
+    },
+    {
+      "Name": "Садовые пылесосы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadovaya-tehnika/sadovye-pylesosy"
+    },
+    {
+      "Name": "Снегоуборщики",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadovaya-tehnika/snegouborshchiki"
+    },
+    {
+      "Name": "Триммеры",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadovaya-tehnika/trimmery"
+    },
+    {
+      "Name": "Цепные пилы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadovaya-tehnika/tsepnye-pily"
+    },
+    {
+      "Name": "Беседки и арки",
+      "PageUrl": "https://www.wildberries.ru/catalog/sad-i-dacha/sadoviy-dekor/besedki-i-arki"
+    },
+    {
+      "Name": "Скворечники и кормушки для птиц",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadoviy-dekor/skvorechniki-i-kormushki-dlya-ptits"
+    },
+    {
+      "Name": "Ограды и бордюры для клумб и газонов",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadoviy-dekor/ogrady-i-bordyury-dlya-klumb-i-gazonov"
+    },
+    {
+      "Name": "Наземные покрытия для сада",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadoviy-dekor/nazemnye-pokrytiya-dlya-sada"
+    },
+    {
+      "Name": "Садовые пруды и фонтаны",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadoviy-dekor/sadovye-prudy-i-fontany"
+    },
+    {
+      "Name": "Садовые декоративные фигуры и таблички",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadoviy-dekor/sadovye-dekorativnye-figury-i-tablichki"
+    },
+    {
+      "Name": "Товары для минисада",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadoviy-dekor/tovary-dlya-minisada"
+    },
+    {
+      "Name": "Садовое освещение",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadoviy-dekor/sadovoe-osveshchenie"
+    },
+    {
+      "Name": "Шторы уличные",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/sad-i-dacha/sadoviy-dekor/shtory-ulichnye"
+    },
+    {
+      "Name": "Измерительный садовый инструмент",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadoviy-instrument/izmeritelniy-sadoviy-instrument"
+    },
+    {
+      "Name": "Инструмент для обработки почвы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadoviy-instrument/instrument-dlya-obrabotki-pochvy"
+    },
+    {
+      "Name": "Инструмент для посадки и сбора урожая",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadoviy-instrument/instrument-dlya-posadki-i-sbora-urozhaya"
+    },
+    {
+      "Name": "Инструмент для уборки в саду",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadoviy-instrument/instrument-dlya-uborki-v-sadu"
+    },
+    {
+      "Name": "Инструменты для уборки снега и реагенты",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadoviy-instrument/instrumenty-dlya-uborki-snega-i-reagenty"
+    },
+    {
+      "Name": "Компостеры садовые",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadoviy-instrument/kompostery-sadovye"
+    },
+    {
+      "Name": "Мелкий садовый инструмент",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadoviy-instrument/melkiy-sadoviy-instrument"
+    },
+    {
+      "Name": "Садовые средства защиты",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadoviy-instrument/sadovye-sredstva-zashchity"
+    },
+    {
+      "Name": "Садовый режущий инструмент",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadoviy-instrument/sadoviy-rezhushchiy-instrument"
+    },
+    {
+      "Name": "Тачки и тележки садовые",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadoviy-instrument/tachki-i-telezhki-sadovye"
+    },
+    {
+      "Name": "Хранение садового инструмента",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadoviy-instrument/hranenie-sadovogo-instrumenta"
+    },
+    {
+      "Name": "Инструменты для пасечников",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/sadoviy-instrument/instrumenty-dlya-pasechnikov"
+    },
+    {
+      "Name": "Парники и аксессуары",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/teplitsy-parniki-ukryvnoy-material/parniki-i-aksessuary"
+    },
+    {
+      "Name": "Сетки затеняющие",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/teplitsy-parniki-ukryvnoy-material/setki-zatenyayushchie"
+    },
+    {
+      "Name": "Теплицы и аксессуары",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/teplitsy-parniki-ukryvnoy-material/teplitsy-i-aksessuary"
+    },
+    {
+      "Name": "Укрывные материалы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/teplitsy-parniki-ukryvnoy-material/ukryvnye-materialy"
+    },
+    {
+      "Name": "Банный текстиль",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/tovary-dlya-bani/banniy-tekstil"
+    },
+    {
+      "Name": "Веники для бани",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/tovary-dlya-bani/veniki-dlya-bani"
+    },
+    {
+      "Name": "Тапочки для бани",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/tovary-dlya-bani/tapochki-dlya-bani"
+    },
+    {
+      "Name": "Банные массажеры",
+      "PageUrl": "https://www.wildberries.ru/catalog/sad-i-dacha/tovary-dlya-bani-i-sauny/bannye-massazhery"
+    },
+    {
+      "Name": "Наборы аксессуаров для бани",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/tovary-dlya-bani/nabory-aksessuarov-dlya-bani"
+    },
+    {
+      "Name": "Масла, запарки и соль для бани",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/tovary-dlya-bani/masla-zaparki-i-sol-dlya-bani"
+    },
+    {
+      "Name": "Бондарные изделия",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/tovary-dlya-bani/bondarnye-izdeliya"
+    },
+    {
+      "Name": "Камни для бани",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/tovary-dlya-bani/kamni-dlya-bani"
+    },
+    {
+      "Name": "Окна для бани",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/tovary-dlya-bani/okna-dlya-bani"
+    },
+    {
+      "Name": "Обустройство бани",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/tovary-dlya-bani/obustroystvo-bani"
+    },
+    {
+      "Name": "Предметы интерьера бани",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/tovary-dlya-bani/predmety-interera-bani"
+    },
+    {
+      "Name": "Аксессуары для дров и золы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/tovary-dlya-bani/aksessuary-dlya-drov-i-zoly"
+    },
+    {
+      "Name": "Портативная паровая баня",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/tovary-dlya-bani/portativnaya-parovaya-banya"
+    },
+    {
+      "Name": "Средства для ухода за баней и сауной",
+      "PageUrl": "https://www.wildberries.ru/catalog/sad-i-dacha/tovary-dlya-bani-i-sauny/sredstva-dlya-uhoda-za-baney-i-saunoy"
+    },
+    {
+      "Name": "Надувная мебель",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/tovary-dlya-kempinga-piknika-i-otdyha/naduvnaya-mebel"
+    },
+    {
+      "Name": "Аксессуары для кемпинга",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/tovary-dlya-kempinga-piknika-i-otdyha/aksessuary-dlya-kempinga"
+    },
+    {
+      "Name": "Аксессуары для пикника",
+      "PageUrl": "https://www.wildberries.ru/catalog/sad-i-dacha/tovary-dlya-kempinga-piknika-i-otdyha/aksessuary-dlya-piknika"
+    },
+    {
+      "Name": "Аксессуары для отдыха",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/tovary-dlya-kempinga-piknika-i-otdyha/aksessuary-dlya-otdyha"
+    },
+    {
+      "Name": "Побелка садовая",
+      "PageUrl": "https://www.wildberries.ru/catalog/sad-i-dacha/udobreniya-himikaty-i-sredstva-zashchity/pobelka-sadovaya"
+    },
+    {
+      "Name": "Средства от сорняков",
+      "PageUrl": "https://www.wildberries.ru/catalog/sad-i-dacha/udobreniya-himikaty-i-sredstva-zashchity/sredstva-ot-sornyakov"
+    },
+    {
+      "Name": "Средства для борьбы с грызунами",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/udobreniya-himikaty-i-sredstva-zashchity/sredstva-dlya-borby-s-gryzunami"
+    },
+    {
+      "Name": "Средства для ускорения компостизации",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/udobreniya-himikaty-i-sredstva-zashchity/sredstva-dlya-uskoreniya-kompostizatsii"
+    },
+    {
+      "Name": "Средства защиты растений",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/udobreniya-himikaty-i-sredstva-zashchity/sredstva-zashchity-rasteniy"
+    },
+    {
+      "Name": "Средства от комаров и бытовых насекомых",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/udobreniya-himikaty-i-sredstva-zashchity/sredstva-ot-komarov-i-bytovyh-nasekomyh"
+    },
+    {
+      "Name": "Стимуляторы и регуляторы роста",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/udobreniya-himikaty-i-sredstva-zashchity/stimulyatory-i-regulyatory-rosta"
+    },
+    {
+      "Name": "Удобрения для растений",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom/dachniy-sezon/udobreniya-himikaty-i-sredstva-zashchity/udobreniya-dlya-rasteniy"
+    },
+    {
+      "Name": "Витамины и БАДы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/zdorove/vitaminy-i-bady"
+    },
+    {
+      "Name": "Дезинфекция, стерилизация и утилизация",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/zdorove/lekarstvennye-preparaty/antibakterialnye-i-antisepticheskie-preparaty"
+    },
+    {
+      "Name": "Контрацептивы и лубриканты",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/zdorove/kontratseptivy-i-lubrikanty"
+    },
+    {
+      "Name": "Лечебное питание ",
+      "PageUrl": "https://www.wildberries.ru/catalog/zdorove/lechebnoe-pitanie-"
+    },
+    {
+      "Name": "Маски защитные",
+      "PageUrl": "https://www.wildberries.ru/catalog/aksessuary/golovnye-ubory/maski-vetrozashchitnye"
+    },
+    {
+      "Name": "Медицинские изделия",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/zdorove/meditsinskie-izdeliya-i-pribory"
+    },
+    {
+      "Name": "Оздоровление",
+      "PageUrl": "https://www.wildberries.ru/catalog/zdorove/ozdorovlenie"
+    },
+    {
+      "Name": "Оптика",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/zdorove/optika"
+    },
+    {
+      "Name": "Бандажи и ортезы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/zdorove/ortopediya/bandazhi-i-kompressionnoe-bele"
+    },
+    {
+      "Name": "Компрессионный трикотаж",
+      "PageUrl": "https://www.wildberries.ru/catalog/zdorove/ortopediya/kompressionniy-trikotazh"
+    },
+    {
+      "Name": "Стельки и супинаторы",
+      "PageUrl": "https://www.wildberries.ru/catalog/dom-i-dacha/zdorove/ortopediya/stelki-i-supinatory"
+    },
+    {
+      "Name": "Товары после мастэктомии",
+      "PageUrl": "https://www.wildberries.ru/catalog/zdorove/tovary-posle-mastektomii"
+    },
+    {
+      "Name": "Реабилитация",
+      "PageUrl": "https://www.wildberries.ru/catalog/zdorove/meditsinskie-izdeliya-i-pribory/sredstva-reabilitatsii"
+    },
+    {
+      "Name": "Уход за полостью рта",
+      "PageUrl": "https://www.wildberries.ru/catalog/zdorove/uhod-za-polostyu-rta"
+    },
+    {
+      "Name": "Антисептики и средства защиты",
+      "PageUrl": "https://www.wildberries.ru/catalog/farmatsevtika/dezinfitsiruyushchie-i-antisepticheskie-sredstva"
+    },
+    {
+      "Name": "Диетические продукты",
+      "PageUrl": "https://www.wildberries.ru/catalog/farmatsevtika/dieticheskie-produkty"
+    },
+    {
+      "Name": "Для малышей",
+      "PageUrl": "https://www.wildberries.ru/catalog/farmatsevtika/izdeliya-dlya-malyshey"
+    },
+    {
+      "Name": "Лекарственные препараты",
+      "PageUrl": "https://www.wildberries.ru/catalog/farmatsevtika/lekarstvennye-preparaty"
+    },
+    {
+      "Name": "Бумажная продукция",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi-i-kantstovary/kantstovary/bumazhnaya-produktsiya"
+    },
+    {
+      "Name": "Карты и глобусы",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi-i-kantstovary/kantstovary/karty-i-globusy"
+    },
+    {
+      "Name": "Офисные принадлежности",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi-i-kantstovary/kantstovary/ofisnye-prinadlezhnosti"
+    },
+    {
+      "Name": "Письменные принадлежности",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi-i-kantstovary/kantstovary/pismennye-prinadlezhnosti"
+    },
+    {
+      "Name": "Счетный материал",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi-i-diski/kantstovary/schetniy-material"
+    },
+    {
+      "Name": "Торговые принадлежности",
+      "PageUrl": "https://www.wildberries.ru/catalog/kantstovary/torgovye-prinadlezhnosti"
+    },
+    {
+      "Name": "Чертежные принадлежности",
+      "PageUrl": "https://www.wildberries.ru/catalog/knigi-i-kantstovary/kantstovary/chertezhnye-prinadlezhnosti"
+    },
+    {
+      "Name": "Продукты",
+      "PageUrl": "https://www.wildberries.ru/catalog/bistraya-dostavka/produkty"
+    },
+    {
+      "Name": "Цветы",
+      "PageUrl": "https://www.wildberries.ru/catalog/bistraya-dostavka/cvety"
+    },
+    {
+      "Name": "Заморозка",
+      "PageUrl": "https://www.wildberries.ru/catalog/bistraya-dostavka/zamorozka"
+    },
+    {
+      "Name": "Магнит",
+      "PageUrl": "https://www.wildberries.ru/catalog/magnit"
+    }
+  ]
+}

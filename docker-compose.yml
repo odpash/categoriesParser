@@ -1,0 +1,73 @@
+version: "3.9"
+services:
+  categoriesparser:
+    build: ./categoriesParser/.
+    restart: always
+    networks:
+      - app-network
+    depends_on:
+      - db
+  api:
+    build: ./api/
+    ports:
+      - '80:80'
+    volumes:
+      - ./:/app
+    networks:
+      - app-network
+    depends_on:
+      - db
+  parserid:
+    build:
+      dockerfile: ./parserId/Dockerfile
+      context: .
+    restart: always
+    networks:
+      - app-network
+    depends_on:
+      - db
+  parserimages:
+    build:
+      dockerfile: ./imagesParser/Dockerfile
+      context: .
+    restart: always
+    networks:
+      - app-network
+    depends_on:
+      - db
+  parseritems:
+    build:
+      dockerfile: ./itemsParser/Dockerfile
+      context: .
+    restart: always
+    networks:
+      - app-network
+    depends_on:
+      - db
+  db:
+    image: postgres:latest
+    command: postgres -c 'max_connections=100000'
+    environment:
+      POSTGRES_DB: "wildberries"
+      POSTGRES_USER: "postgres"
+      POSTGRES_PASSWORD: "991155"
+      POSTGRES_INITDB_ARGS: '--encoding=UTF-8 --lc-collate=C --lc-ctype=C'
+    volumes:
+      - ./commonFiles/db/psqsql/data:/var/lib/postgresql
+      - ./commonFiles/db/psqsql/init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - app-network
+    restart: always
+  pgadmin:
+      container_name: pgadmin4_container
+      image: dpage/pgadmin4
+      restart: always
+      environment:
+        PGADMIN_DEFAULT_EMAIL: admin@admin.com
+        PGADMIN_DEFAULT_PASSWORD: root
+      ports:
+        - "5050:80"
+
+networks:
+    app-network:
+        driver: bridge

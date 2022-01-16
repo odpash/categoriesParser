@@ -1,0 +1,9 @@
+  parserid:
+    build:
+      dockerfile: ./parserId/Dockerfile
+      context: .
+    restart: always
+    networks:
+      - app-network
+    depends_on:
+      - db
