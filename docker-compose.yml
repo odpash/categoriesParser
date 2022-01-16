@@ -26,15 +26,6 @@ services:
       - app-network
     depends_on:
       - db
-  parserimages:
-    build:
-      dockerfile: ./imagesParser/Dockerfile
-      context: .
-    restart: always
-    networks:
-      - app-network
-    depends_on:
-      - db
   parseritems:
     build:
       dockerfile: ./itemsParser/Dockerfile
@@ -58,15 +49,6 @@ services:
     networks:
       - app-network
     restart: always
-  pgadmin:
-      container_name: pgadmin4_container
-      image: dpage/pgadmin4
-      restart: always
-      environment:
-        PGADMIN_DEFAULT_EMAIL: admin@admin.com
-        PGADMIN_DEFAULT_PASSWORD: root
-      ports:
-        - "5050:80"
 
 networks:
     app-network:

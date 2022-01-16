@@ -4,6 +4,7 @@ import (
 	"database/sql"
 	"fmt"
 	"github.com/getsentry/sentry-go"
+	"github.com/lib/pq"
 	_ "github.com/lib/pq"
 	"log"
 	"net/http"
@@ -13,6 +14,7 @@ import (
 )
 
 const connStr = "user=postgres password=991155 dbname=wildberries sslmode=disable host=db"
+
 type Id struct {
 	id       int
 	category string
@@ -27,7 +29,8 @@ func WriteIdToPostgreSql(id int, images []string, category string) {
 	if err != nil {
 		panic(err)
 	}
-	_, e := db.Exec("update items set imagelinks=$2 where id=$1", id, pq.Array(images))
+	_, e := db.Exec("update items set imagelinks=$2, category=$3 where id=$1",
+		id, pq.Array(images), category)
 	if e != nil {
 		fmt.Println("Error write")
 		fmt.Println(e)
@@ -111,6 +114,7 @@ func scrapImages() {
 }
 
 func main() {
+
 	time.Sleep(time.Second * 10)
 	fmt.Println("Images Started")
 	for {
