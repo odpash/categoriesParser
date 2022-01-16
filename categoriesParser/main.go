@@ -14,8 +14,8 @@ import (
 	"time"
 )
 
-const categoryFilename = "category.json"
-const connStr = "user=postgres password=991155 dbname=wildberries sslmode=disable host=db"
+const connStr = "user=postgres dbname=wilberries sslmode=disable"
+
 //const connStr = "postgres://postgres:991155@0.0.0.0:5433/wildberries?sslmode=disable"
 
 type Categories struct {
